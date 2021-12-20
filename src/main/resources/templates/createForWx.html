@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>支付</title>
+</head>
+<body>
+<div id="myQRCode"></div>
+<span th:text="${orderId}"></span>
+<span th:text="${returnUrl}"></span>
+<div id="returnUrl"></div>
+<script src="https://cdn.bootcss.com/jquery/1.5.1/jquery.min.js"></script>
+<script src="https://cdn.bootcss.com/jquery.qrcode/1.0/jquery.qrcode.min.js"></script>
+
+<div id="qrcode"></div>
+<script type="text/javascript">
+    $(function() {
+        $('#qrcode').qrcode({
+            width : 300,
+            height : 300,
+            text : "[[${qr}]]"
+        });
+    });
+
+    $(function () {
+        //定时器
+        setInterval(function () {
+            console.log('开始查询支付状态...')
+            $.ajax({
+                'url': '/pay/queryByOrderId',
+                data: {
+                    'orderId': '[[${orderId}]]'
+                },
+                success: function (result) {
+                    console.log(result)
+                    if (result.platformStatus != null
+                        && result.platformStatus === 'SUCCESS') {
+                        location.href = '[[${returnUrl}]]'
+                    }
+                },
+                error: function (result) {
+                    alert(result)
+                }
+            })
+        }, 2000)
+    });
+</script>
+</body>
+</body>
+</html>
