@@ -7,6 +7,7 @@ import lombok.Getter;
 @Getter
 public enum PayPlatformEnum {
 
+	////
 	//43-支付宝,44-微信
 	ALIPAY(43),
 
