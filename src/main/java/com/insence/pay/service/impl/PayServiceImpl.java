@@ -98,7 +98,7 @@ public class PayServiceImpl implements IPayService {
         //2.金额校验（从数据库查订单）
         PayInfo payInfo = payInfoMapper.selectByOrderNo(Long.parseLong((String) notifyData.get("order_no")));
         if (payInfo == null) {
-            //告警
+            //告警sss
             throw new RuntimeException("通过orderNo查询到的结果是null");
         }
         //支付状态是未支付 核对金额
