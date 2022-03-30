@@ -93,7 +93,7 @@ public class PayServiceImpl implements IPayService {
         } else {
             log.debug("签名正确");
         }
-        //test
+        //test123
 
         //2.金额校验（从数据库查订单）
         PayInfo payInfo = payInfoMapper.selectByOrderNo(Long.parseLong((String) notifyData.get("order_no")));
