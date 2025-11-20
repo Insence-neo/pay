@@ -1,0 +1,468 @@
+1
+00:00:07,090 --> 00:00:17,050
+Another legal aspect we need to consider is the illegal import and export of items.
+我们需要考虑的另一个法律问题是物品
+的非法进出口。
+
+2
+00:00:17,050 --> 00:00:24,170
+For example, in the United States, it was illegal for a long time to import cigars from Cuba.
+例如，在美国，长期以来从古巴进口雪
+茄是违法的。
+
+3
+00:00:25,420 --> 00:00:33,760
+It is probably going to be illegal to sell military arms to a terrorist organization.
+向恐怖组织出售军用武器很可能会被认
+定为非法。
+
+4
+00:00:33,760 --> 00:00:39,040
+Selling bombs to terrorists is going to be illegal.
+向恐怖分子出售炸弹将是违法的。
+
+5
+00:00:39,040 --> 00:00:45,950
+In the United States, there are laws regarding the sale of military-grade items.
+在美国，有关于军用级物品销售的法律
+法规。
+
+6
+00:00:46,130 --> 00:00:50,570
+It's called ITAR, the International Traffic in Arms Regulation.
+它被称为ITAR，即《国际武器贸易条例
+》。
+
+7
+00:00:50,570 --> 00:00:53,030
+This has been around for a long time.
+这已经存在很长时间了。
+
+8
+00:00:53,030 --> 00:00:55,490
+Obviously, if North Korea wants to blow us up,
+显然，如果朝鲜想要炸毁我们，
+
+9
+00:00:55,490 --> 00:01:00,050
+we shouldn't make it legal to sell weapons to our enemies.
+我们不应该允许向敌人出售武器。
+
+10
+00:01:00,050 --> 00:01:10,830
+So military-grade goods cannot be sold or purchased across borders or jurisdictions unless it is within legal parameters.
+因此，军用级商品不能跨越国界或司法
+管辖区进行买卖，除非符合法律规定的范
+围。
+
+11
+00:01:11,950 --> 00:01:20,290
+So the military-grade goods, does that have anything to do with us?
+那么军用级别的物资，这和我们有什么
+关系吗？
+
+12
+00:01:20,290 --> 00:01:26,050
+Well, one thing that might be considered military-grade is encryption tools that encrypt files.
+嗯，有一项可能被视为军用级别的技术
+是加密工具，它们可以对文件进行加密。
+
+13
+00:01:26,050 --> 00:01:33,250
+Terrorists might use encryption to share secrets about their plans to do damage to our country.
+恐怖分子可能会使用加密技术来分享他
+们对我们国家造成破坏的计划秘密。
+
+14
+00:01:33,250 --> 00:01:38,870
+But encryption isn't just military; it can be used for me to protect my web traffic.
+但加密并不仅仅用于军事；它也可以用
+来保护我的网络流量。
+
+15
+00:01:38,870 --> 00:01:40,790
+I can go search something on Google,
+我可以在谷歌上搜索一些东西。
+
+16
+00:01:40,790 --> 00:01:43,850
+and encryption will protect what I'm searching,
+加密将保护我搜索的内容，
+
+17
+00:01:43,850 --> 00:01:55,310
+which may have nothing to do with military anything. So the ITAR is specifically related to defense articles and defense services.
+这可能与军事事务毫无关系。因此，ITA
+R（国际武器贸易条例）专门涉及国防物
+品和国防服务。
+
+18
+00:01:55,310 --> 00:02:01,490
+If you win and you did some work for a terrorist organization or you did some work for North Korea,
+如果你赢了，而你曾为恐怖组织工作过
+，或者你曾为朝鲜做过一些工作，
+
+19
+00:02:01,490 --> 00:02:03,570
+those might be illegal things.
+那些可能是非法的事情。
+
+20
+00:02:03,570 --> 00:02:08,880
+So ITAR controls the import and export of military-grade goods.
+因此，ITAR控制着军用级商品的进出口
+。
+
+21
+00:02:09,160 --> 00:02:15,880
+Now, non-military goods, let's say for example,Microsoft creates an operating system like Windows.
+现在，非军事产品，比如微软开发了一
+个像Windows这样的操作系统。
+
+22
+00:02:15,880 --> 00:02:19,540
+Are they allowed to sell Windows to North Koreans?
+他们被允许向北朝鲜人出售Windows吗
+？
+
+23
+00:02:19,540 --> 00:02:24,940
+Are they allowed to sell Windows to potential terrorist organizations?
+他们是否被允许向潜在的恐怖组织出售
+Windows系统？
+
+24
+00:02:24,940 --> 00:02:28,960
+Well, there are things that are considered dual-use items.
+嗯，有些物品被认为是双重用途的。
+
+25
+00:02:28,960 --> 00:02:37,230
+When I worked for the Air Force, I used Microsoft products. For a military purpose. I am no longer with the Air Force.
+我在空军工作时，使用过微软的产品。
+那是出于军事目的。我现在已经不在空军
+了。
+
+26
+00:02:37,230 --> 00:02:41,610
+I now use Microsoft Windows for my own personal use.
+我现在使用微软Windows系统供个人使
+用。
+
+27
+00:02:41,610 --> 00:02:50,670
+Those are dual-use goods, things that can be used for military or non-military purposes.
+这些是两用货物，既可用于军事用途，
+也可用于非军事用途。
+
+28
+00:02:50,670 --> 00:02:56,190
+Computers,networking, and telecommunications information security fall specifically under that realm.
+计算机、网络和电信信息安全都属于这
+一范畴。
+
+29
+00:02:56,190 --> 00:02:58,410
+So as an information security professional,
+因此，作为一名信息安全专业人士，
+
+30
+00:02:58,410 --> 00:03:05,290
+we just need to know what the laws are regarding international importing and exporting of our goods and services.
+我们只需要了解有关我们商品和服务国
+际进出口的法律规定。
+
+31
+00:03:05,290 --> 00:03:10,330
+By the way, there's also something called the Vosnar arrangement or the Vosnar agreement,
+顺便提一下，还有一种叫做沃斯纳安排
+或沃斯纳协议的东西。
+
+32
+00:03:10,330 --> 00:03:19,870
+and that is essentially friendly countries deciding not to sell goods and services that would help our enemies.
+这本质上就是友好国家决定不向我们的
+敌人出售有助于他们的商品和服务。
+
+33
+00:03:19,870 --> 00:03:26,570
+For example, the United States isn't going to sell military arms to a hostile country,
+例如，美国不会向敌对国家出售军事武
+器。
+
+34
+00:03:26,570 --> 00:03:30,300
+but maybe Germany or Japan could. But Germany and Japan,
+但也许德国或日本可以做到。但德国和
+日本，
+
+35
+00:03:30,300 --> 00:03:38,460
+you're our friends. So let's agree not to sell or import and export things to our enemies.
+你们是我们的朋友。因此，我们同意不
+向敌人出售、进口或出口任何物品。
+
+36
+00:03:38,460 --> 00:03:43,200
+If we're friends,then we should,you know, Germany shouldn't sell to our enemies either,
+如果我们是朋友，那么你知道，德国也
+不应该向我们的敌人出售武器。
+
+37
+00:03:43,200 --> 00:03:46,080
+and Japan shouldn't sell to our enemies either.
+日本也不应该向我们的敌人出售产品。
+
+38
+00:03:46,080 --> 00:03:48,480
+So if Germany has some cool fighter jet,
+那么如果德国拥有一些很酷的战斗机，
+
+39
+00:03:48,480 --> 00:03:51,000
+they could sell it theoretically to whoever they want,
+他们理论上可以把产品卖给任何他们想
+要的人。
+
+40
+00:03:51,000 --> 00:03:57,520
+but they're our ally, so they'll agree maybe not to sell it to countries that we consider enemies.
+但他们是我们的盟友，因此他们或许会
+同意不将其出售给我们视为敌对的国家。
+
+41
+00:03:57,520 --> 00:04:04,960
+So this Vosnar arrangement is this agreement not to sell to our friends' enemies either.
+因此，这个沃斯纳协议也是一项不向我
+们朋友的敌人出售商品的协议。
+
+42
+00:04:04,960 --> 00:04:09,100
+Okay, so now importing and exporting a lot of that has to do with crossing borders.
+好的，现在，大量进出口活动都与跨越
+国界有关。
+
+43
+00:04:09,100 --> 00:04:13,360
+If we sell to another country or we sell to a foreign party,
+如果我们向另一个国家销售，或者向外
+国方销售，
+
+44
+00:04:13,360 --> 00:04:16,720
+so when we start getting things that go across borders,
+因此，当我们开始处理跨越国界的事物
+时，
+
+45
+00:04:16,720 --> 00:04:22,880
+what about data? Trans-border data flow falls under this as well.
+数据呢？跨境数据流动也属于这一范畴
+。
+
+46
+00:04:22,880 --> 00:04:25,280
+Nowadays, we store things in the cloud.
+如今，我们把东西存储在云端。
+
+47
+00:04:25,280 --> 00:04:27,140
+Where is that really going?
+那到底会走向何方？
+
+48
+00:04:27,140 --> 00:04:32,770
+Is your cloud server in India or is it in China or is it in North Korea?
+你的云服务器是在印度，还是在中国，
+或者是在朝鲜？
+
+49
+00:04:33,340 --> 00:04:39,280
+When the internet makes all these kind of borderless transactions possible,
+当互联网使所有这些无国界的交易成为
+可能时，
+
+50
+00:04:39,280 --> 00:04:47,800
+it can become a little bit of a challenge to control our information and make sure that the laws that protect our information are in our jurisdiction.
+要控制我们的信息并确保保护我们信息
+的法律在我们的管辖范围内，这可能会变
+得有些挑战。
+
+51
+00:04:47,800 --> 00:04:52,300
+And if that data just so happens to flow through Canada,
+如果这些数据恰好流经加拿大，
+
+52
+00:04:52,300 --> 00:04:53,740
+they have slightly different laws.
+他们的法律略有不同。
+
+53
+00:04:53,740 --> 00:04:56,380
+It may not protect the data the way you want it to.
+它可能无法以你想要的方式保护数据。
+
+54
+00:04:56,380 --> 00:04:59,540
+So we just need to be careful where our information flows.
+因此，我们只需要注意信息流动的方向
+。
+
+55
+00:04:59,540 --> 00:05:04,940
+And in this age of the internet, it seems like there is no borders when it comes to information and data,
+在这个互联网时代，信息和数据似乎已
+经没有边界。
+
+56
+00:05:04,940 --> 00:05:08,300
+but there are. So some issues to consider.
+但确实存在一些问题。因此，有一些需
+要考虑的事项。
+
+57
+00:05:08,300 --> 00:05:10,940
+If you decide,hey, we're not going to store our own data,
+如果你决定，嘿，我们不打算自己存储
+数据，
+
+58
+00:05:10,940 --> 00:05:12,440
+we're going to find some cloud provider,
+我们将寻找一些云服务提供商，
+
+59
+00:05:12,440 --> 00:05:18,310
+we're going to outsource this to a cloud provider, we need to consider where that cloud provider operates.
+我们将把这项业务外包给云服务提供商
+，我们需要考虑该云服务提供商的运营地
+点。
+
+60
+00:05:18,310 --> 00:05:21,070
+Or if we have a call center situation,
+或者如果我们有一个呼叫中心的情况，
+
+61
+00:05:21,070 --> 00:05:24,250
+and for us to spin up our own help desk call center,
+并且我们还要建立自己的帮助台呼叫中
+心，
+
+62
+00:05:24,250 --> 00:05:26,170
+we'd have to buy a building, we'd have to hire people,
+我们必须买一栋楼，还得雇佣人手，
+
+63
+00:05:26,170 --> 00:05:27,790
+it'd be an HR nightmare.
+这将是一场人力资源噩梦。
+
+64
+00:05:27,790 --> 00:05:29,710
+Let's just outsource that. Well,
+我们干脆外包吧。嗯，
+
+65
+00:05:29,710 --> 00:05:31,570
+where is our outsourcing going to?
+我们的外包将走向何方？
+
+66
+00:05:31,570 --> 00:05:40,010
+A real-world scenario is like clothing manufacturers who outsource the manufacture of their clothing items to China
+一个现实世界的例子就像服装制造商将
+服装的生产外包给中国。
+
+67
+00:05:40,010 --> 00:05:49,250
+and then we come to find out that there are these sweatshops and these children being made to work long,
+然后我们发现，这些地方存在血汗工厂
+，孩子们被迫长时间工作，
+
+68
+00:05:49,250 --> 00:05:53,210
+extreme hours in order for me to get my clothing cheaper.
+为了能以更低的价格购买衣物，我不得
+不工作极端的时间。
+
+69
+00:05:53,210 --> 00:05:56,330
+So just make sure that you pay attention to who you're outsourcing to,
+所以，你只需要确保注意你外包的对象
+是谁。
+
+70
+00:05:56,330 --> 00:06:02,390
+where they're going, what the laws are regarding whoever is doing your outsourced work for you.
+他们要去哪里，以及关于为你提供外包
+工作的相关法律是什么。
+
+71
+00:06:02,390 --> 00:06:04,670
+Data retention requirements might be an issue.
+数据保留要求可能是一个问题。
+
+72
+00:06:04,670 --> 00:06:08,250
+If you're supposed to destroy data after seven years,
+如果你需要在七年后销毁数据，
+
+73
+00:06:08,250 --> 00:06:14,250
+but it's out in the cloud somewhere, how do you destroy it when it's not even in your area?
+但它存在于云端的某个地方，当它甚至
+不在你的区域时，你该如何摧毁它呢？
+
+74
+00:06:14,250 --> 00:06:18,390
+Or if legally you're supposed to retain something or not retain something,
+或者，如果你在法律上应该保留某些东
+西或不保留某些东西，
+
+75
+00:06:18,390 --> 00:06:23,430
+the laws in different countries might not protect you as much as you want.
+不同国家的法律可能无法像你期望的那
+样充分保护你。
+
+76
+00:06:23,430 --> 00:06:24,510
+Anti-terrorism measures come into play.
+反恐措施开始实施。
+
+77
+00:06:24,510 --> 00:06:28,290
+We talked about how we can't work with terrorist organizations.
+我们讨论了如何不能与恐怖组织合作。
+
+78
+00:06:28,290 --> 00:06:33,250
+We can't sell or buy or support terrorist organizations.
+我们不能出售、购买或支持恐怖组织。
+
+79
+00:06:33,250 --> 00:06:41,710
+So make sure that when you cross borders, you're not getting into a situation where you might be supporting a terrorist organization.
+因此，当你跨越国界时，要确保自己不
+会陷入可能支持恐怖组织的情况。
+
+80
+00:06:41,710 --> 00:06:51,120
+So when we start talking about the legal ramifications of where our products get sold or where we import or export to,
+因此，当我们开始讨论我们的产品销售
+地点或进出口地点的法律后果时，
+
+81
+00:06:51,120 --> 00:06:55,500
+there are some situations that definitely affect cybersecurity,
+有些情况确实会影响网络安全，
+
+82
+00:06:55,500 --> 00:06:59,870
+and we need to be aware of those situations to make sure that we're doing things right.
+我们需要意识到这些情况，以确保我们
+做事正确。
