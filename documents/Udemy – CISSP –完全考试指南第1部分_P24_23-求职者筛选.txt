@@ -1,0 +1,338 @@
+1
+00:00:07,120 --> 00:00:10,900
+In the security world, we have a lot to worry about.
+在安全领域，我们有很多需要担心的事
+情。
+
+2
+00:00:10,900 --> 00:00:14,560
+One of the things we have to worry about is our own people,
+我们必须担心的事情之一是我们的本国
+人民，
+
+3
+00:00:14,560 --> 00:00:18,520
+managing personnel security. I will tell you right now,
+管理人事安全。我现在就告诉你，
+
+4
+00:00:18,520 --> 00:00:23,440
+if there's ever a question on the exam that has to do with human health and safety,
+如果考试中有一道题涉及人类健康与安
+全，
+
+5
+00:00:23,440 --> 00:00:27,100
+that's always the primary goal. So when we talk about personnel safety,
+那始终是首要目标。因此，当我们谈论
+人员安全时，
+
+6
+00:00:27,100 --> 00:00:29,920
+we need to think about keeping our people safe,
+我们需要考虑如何保障我们人民的安全
+，
+
+7
+00:00:29,920 --> 00:00:35,420
+but we also need to think about keeping our assets safe from our people.
+但我们还需要考虑如何保护我们的资产
+免受内部人员的威胁。
+
+8
+00:00:35,420 --> 00:00:46,400
+When we hire people, there is a level of access we're going to be giving these people to data that might be sensitive or crucial to our organization.
+当我们雇佣人员时，我们会给予这些人
+一定程度的访问权限，他们可能会接触到
+对我们组织来说敏感或关键的数据。
+
+9
+00:00:46,400 --> 00:00:54,190
+So when we are hiring, we need to screen those potential employees and make sure that we can have at least some level of trust with them.
+因此，在我们招聘时，需要筛选这些潜
+在员工，确保我们至少能在一定程度上信
+任他们。
+
+10
+00:00:54,910 --> 00:01:00,490
+One of the things we might do is list some references on your resume,
+我们可能会做的事情之一是在你的简历
+上列出一些推荐人。
+
+11
+00:01:00,490 --> 00:01:07,090
+and we might call those references to get a character statement about this person.
+我们可以打电话给这些推荐人，获取关
+于这个人的性格评价。
+
+12
+00:01:07,090 --> 00:01:11,230
+That's a normal hiring practice to check someone's references.
+这是一种正常的招聘做法，用于核实某
+人的推荐人。
+
+13
+00:01:11,230 --> 00:01:15,310
+Now, there are various levels of background investigation we might want to do.
+现在，我们可能需要进行不同层次的背
+景调查。
+
+14
+00:01:15,310 --> 00:01:17,950
+We can do a criminal background check.
+我们可以进行犯罪背景调查。
+
+15
+00:01:17,950 --> 00:01:24,590
+We can make sure they have good credit. We can check their job history.
+我们可以确保他们有良好的信用记录。
+我们可以查看他们的工作经历。
+
+16
+00:01:24,590 --> 00:01:29,510
+These are things that can help us get insight into this person.
+这些可以帮助我们深入了解这个人。
+
+17
+00:01:29,510 --> 00:01:33,530
+Nowadays, it's even common to check their Facebook history,
+如今，查看他们的Facebook历史记录甚
+至变得司空见惯。
+
+18
+00:01:33,530 --> 00:01:41,390
+Twitter, and Instagram history to make sure we're hiring someone we can trust to some extent.
+查看Twitter和Instagram历史记录，以
+确保我们雇佣的是在某种程度上值得信赖
+的人。
+
+19
+00:01:41,390 --> 00:01:43,310
+We should do these before we hire them.
+我们应该在雇佣他们之前先做这些。
+
+20
+00:01:43,310 --> 00:01:44,870
+If they've already been hired,
+如果他们已经被雇佣了，
+
+21
+00:01:44,870 --> 00:01:47,730
+it's even easier to say no, we're not going to hire someone,
+拒绝起来更容易了，我们不会雇佣任何
+人。
+
+22
+00:01:47,730 --> 00:01:52,810
+than it is to try to dismiss them after they've already been hired.
+比起在员工已经被雇佣之后再试图解雇
+他们，这样做要容易得多。
+
+23
+00:01:53,370 --> 00:01:56,430
+So I mentioned a couple types of background checks.
+所以我提到了几种背景调查的类型。
+
+24
+00:01:56,430 --> 00:02:00,090
+Let's take a look at some specific background checks we can look at.
+让我们来看看一些具体的背景调查内容
+。
+
+25
+00:02:00,090 --> 00:02:02,910
+Their credit history. The credit history,
+他们的信用记录。信用记录，
+
+26
+00:02:02,910 --> 00:02:05,550
+why would that matter when you're hiring someone,
+当你在招聘某人时，这又有什么关系呢
+？
+
+27
+00:02:05,550 --> 00:02:09,150
+whether or not they pay their credit card off on time or whatnot?
+他们是否按时还清信用卡账单或其他相
+关事项？
+
+28
+00:02:09,150 --> 00:02:15,390
+Well, there might be some measure of decision making that we can assess from that credit history,
+嗯，我们或许可以从信用记录中评估出
+某种程度的决策能力。
+
+29
+00:02:15,390 --> 00:02:20,290
+but the biggest thing for security reasons are if somebody is struggling,
+但出于安全考虑，最大的问题是如果有
+人遇到困难，
+
+30
+00:02:20,290 --> 00:02:29,600
+then they are more susceptible to bribery or more willing to do something shady to take care of their credit problems.
+那么他们更容易受到贿赂，或者更愿意
+做一些见不得人的事情来解决他们的信用
+问题。
+
+31
+00:02:31,030 --> 00:02:39,550
+Criminal history background check to make sure they don't have a record or a bunch of felonies in their history.
+犯罪历史背景调查，以确保他们没有犯
+罪记录或大量重罪记录。
+
+32
+00:02:39,550 --> 00:02:44,170
+Driving records can be checked to ensure that if you expect them to drive for you,
+可以检查驾驶记录，以确保如果你期望
+他们为你开车，
+
+33
+00:02:44,170 --> 00:02:48,250
+you want to make sure that is suitable and adequate.
+你要确保它是合适且足够的。
+
+34
+00:02:48,250 --> 00:02:51,670
+You might want them to take a drug test.
+你可能想让他们做个药物测试。
+
+35
+00:02:51,670 --> 00:03:00,830
+I had to take a drug test for my Air Force position when I worked as a contractor for the Air Force.
+我在为空军担任承包商期间，必须接受
+药物测试，以获得空军职位。
+
+36
+00:03:00,830 --> 00:03:03,050
+That was pretty typical. Everyone just had to do that.
+那是很典型的。每个人都必须这么做。
+
+37
+00:03:03,050 --> 00:03:04,910
+I had secret level clearance.
+我有机密级别的权限。
+
+38
+00:03:04,910 --> 00:03:07,610
+So if I have a drug history,
+那么，如果我有吸毒史，
+
+39
+00:03:07,610 --> 00:03:10,790
+that might lead to some problems security-wise.
+这可能会在安全方面带来一些问题。
+
+40
+00:03:10,790 --> 00:03:14,570
+Prior employment, if their resume says they worked for these people,
+如果他们的简历上写着曾为这些人工作
+过，那么之前的就业情况如何？
+
+41
+00:03:14,570 --> 00:03:17,150
+did they really? We might want to double check.
+他们真的这么做了吗？我们可能需要再
+确认一下。
+
+42
+00:03:17,150 --> 00:03:23,130
+I've heard of football coaches claiming to have certain items in their resume,
+我听说过一些足球教练声称自己的简历
+中拥有某些项目，
+
+43
+00:03:23,130 --> 00:03:27,510
+but when you went and really looked into it, they didn't really do that stuff.
+但当你真正去调查后发现，他们其实并
+没有做那些事情。
+
+44
+00:03:27,510 --> 00:03:29,010
+So check their prior employment,
+因此，检查他们之前的工作经历，
+
+45
+00:03:29,010 --> 00:03:33,210
+make sure that you talk to them and make sure that they were employed there.
+确保你与他们交谈，并确认他们确实在
+那里工作过。
+
+46
+00:03:33,210 --> 00:03:38,250
+Maybe their education history, if they claim to have a bachelor's degree or a master's degree,
+也许他们的教育背景，如果他们声称拥
+有学士学位或硕士学位，
+
+47
+00:03:38,250 --> 00:03:43,290
+verify that. If they claim to be certified in CISP,
+核实这一点。如果他们声称获得了CISP
+认证，
+
+48
+00:03:43,290 --> 00:03:57,070
+go verify, make sure that they truly have that certification. Make sure that they have the teaching license or the medical practice license or the legal license that they're supposed to have to participate in whatever activity your business is doing.
+去核实一下，确保他们确实拥有该认证
+。确保他们拥有教学执照、医疗执业执照
+或法律执业执照等，这些是他们参与你企
+业所从事的任何活动所需的合法资质。
+
+49
+00:03:57,070 --> 00:04:01,390
+Social security number verification validation. There's a lot of identity theft going on these days.
+社会保障号码验证。如今，身份盗窃案
+件频发。
+
+50
+00:04:01,390 --> 00:04:05,770
+Make sure this is really the person who they claim to be.
+确保这确实是他们声称的那个人。
+
+51
+00:04:05,770 --> 00:04:08,110
+Usually, you have them bring in their social security card.
+通常，你会让他们带上他们的社会保障
+卡。
+
+52
+00:04:08,110 --> 00:04:13,430
+You need to see their physical copy of the social security card that they have.
+你需要查看他们所持有的社会保障卡的
+实体副本。
+
+53
+00:04:13,430 --> 00:04:16,310
+There's a lot of tricky stuff going on out there.
+外面有很多复杂的事情正在发生。
+
+54
+00:04:16,310 --> 00:04:19,670
+And you might even want to check the suspected terrorist watch list.
+你甚至可能想查看疑似恐怖分子监视名
+单。
+
+55
+00:04:19,670 --> 00:04:25,910
+That would be horrible if you hired somebody who ended up exploiting you to commit an act of terrorism.
+如果你雇佣了某人，结果却被他利用来
+实施恐怖主义行为，那将是可怕的。
+
+56
+00:04:25,910 --> 00:04:27,530
+That would be truly horrible.
+那将是真正可怕的。
+
+57
+00:04:27,530 --> 00:04:32,680
+So there are lots of background checks that we can do. Again,
+因此，我们可以进行许多背景调查。再
+次强调，
+
+58
+00:04:32,680 --> 00:04:43,460
+the more we do our research, the more we can prevent potential issues and problems that really can be avoided with just some simple research and making sure that we hire good people.
+我们越是深入研究，就越能预防那些本
+可以通过一些简单的研究以及确保我们雇
+佣优秀人才而真正避免的问题和潜在风险
+。
