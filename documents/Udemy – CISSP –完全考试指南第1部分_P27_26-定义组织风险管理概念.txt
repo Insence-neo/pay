@@ -1,0 +1,455 @@
+1
+00:00:07,230 --> 00:00:11,670
+Risk management, that's what security is really all about.
+风险管理，这才是安全的真正核心。
+
+2
+00:00:11,670 --> 00:00:15,630
+Remember, the definition of security is to protect the confidentiality,
+记住，安全的定义是保护机密性，
+
+3
+00:00:15,630 --> 00:00:22,090
+the integrity,and the availability of our assets. Protect them from what? Risk.
+我们资产的完整性和可用性。保护它们
+免受什么？风险。
+
+4
+00:00:22,090 --> 00:00:26,410
+That's the answer. So security is all about risk management.
+这就是答案。因此，安全就是风险管理
+。
+
+5
+00:00:26,410 --> 00:00:30,010
+Understanding what risk is, the definition of risk,
+理解什么是风险，风险的定义，
+
+6
+00:00:30,010 --> 00:00:39,310
+and what builds risk will help us understand our security and be able to control and protect ourselves more.
+而了解风险因素将帮助我们理解自身安
+全，并能够更好地控制和保护自己。
+
+7
+00:00:39,310 --> 00:00:41,950
+These definitions will be on the exam,
+这些定义将出现在考试中。
+
+8
+00:00:41,950 --> 00:00:51,530
+so pay close attention to this section because we're going to talk about some important concepts. This first graphic we see here is from NIST.
+因此，请仔细阅读这一部分，因为我们
+将要讨论一些重要的概念。我们看到的第
+一个图表来自NIST。
+
+9
+00:00:51,530 --> 00:00:55,010
+This is their risk definition,
+这是他们的风险定义，
+
+10
+00:00:55,010 --> 00:00:58,730
+and it looks pretty complicated, but let's walk through it a little bit.
+看起来挺复杂的，不过我们稍微分析一
+下。
+
+11
+00:00:58,730 --> 00:01:00,050
+You'll notice in the upper corner,
+你会注意到在右上角，
+
+12
+00:01:00,050 --> 00:01:04,430
+it talks about a threat source, a dark gray box that says threat source,
+它谈论的是一个威胁源，一个深灰色的
+方框上写着“威胁源”。
+
+13
+00:01:04,430 --> 00:01:10,010
+and that initiates a threat event. We've seen the word threat twice.
+这会引发一个威胁事件。我们已经两次
+看到“威胁”这个词。
+
+14
+00:01:10,010 --> 00:01:15,150
+The word threat is a big part of understanding what the word risk means.
+“威胁”这个词是理解“风险”含义的重要
+组成部分。
+
+15
+00:01:15,150 --> 00:01:18,390
+A threat is something that might hurt us,
+威胁是可能伤害我们的东西。
+
+16
+00:01:18,390 --> 00:01:20,010
+something that could do damage.
+可能造成损害的东西。
+
+17
+00:01:20,010 --> 00:01:22,770
+That is a threat. The threat source would be an agent,
+这是一种威胁。威胁来源可能是一个特
+工。
+
+18
+00:01:22,770 --> 00:01:27,570
+a person, a situation that would cause a threat event.
+一个人，一种可能导致威胁事件的情况
+。
+
+19
+00:01:27,570 --> 00:01:30,390
+The event is what would actually do the damage.
+事件本身才是真正造成损害的原因。
+
+20
+00:01:30,390 --> 00:01:33,990
+Now, you'll notice there are little arrows between the threat source and the threat event,
+现在，你会注意到威胁源和威胁事件之
+间有一些小箭头。
+
+21
+00:01:33,990 --> 00:01:41,050
+and those little arrows say there's a likely hood of initiation and a likelihood of success.
+那些小箭头表示有入门的可能性和成功
+的可能性。
+
+22
+00:01:41,050 --> 00:01:44,890
+Just because there's a threat out there doesn't mean they'll get me,
+仅仅因为外面有威胁，并不意味着他们
+会抓住我。
+
+23
+00:01:44,890 --> 00:01:48,070
+right? If there is somebody who shoots a gun,
+对吧？如果有人开枪射击，
+
+24
+00:01:48,070 --> 00:01:51,850
+that doesn't mean I'm anywhere near it; it's not going to hit me,
+这并不意味着我已经接近它了；它不会
+击中我。
+
+25
+00:01:51,850 --> 00:01:59,030
+right? So the likelihood of a threat source initiating a threat event against me might depend on my job.
+对吧？因此，威胁源对我发起威胁事件
+的可能性可能取决于我的工作。
+
+26
+00:01:59,030 --> 00:02:01,070
+If I'm in the military or the police force,
+如果我在军队或警察部队服役，
+
+27
+00:02:01,070 --> 00:02:05,750
+or if I'm in a situation where guns are more likely to be pulled on me,
+或者如果我处于一个更有可能被人拔枪
+威胁的情况下，
+
+28
+00:02:05,750 --> 00:02:10,729
+then that is more likely to be a risk that I'll worry about.
+那样的话，那才是我更可能担心的问题
+。
+
+29
+00:02:10,729 --> 00:02:14,210
+Now, all of that points to this big vertical light gray box,
+现在，所有这些都指向这个大型的垂直
+浅灰色盒子，
+
+30
+00:02:14,210 --> 00:02:17,750
+and inside there is the word vulnerability.
+里面有一个词是“脆弱”。
+
+31
+00:02:17,750 --> 00:02:22,780
+Now, if I'm Superman, it doesn't matter if somebody shoots a gun at me.
+现在，如果我是超人，有人朝我开枪也
+没关系。
+
+32
+00:02:22,780 --> 00:02:26,200
+I'm bulletproof. I am not vulnerable to that threat.
+我刀枪不入。我不受那种威胁的影响。
+
+33
+00:02:26,200 --> 00:02:29,020
+So in order for risk to exist,
+因此，为了风险的存在，
+
+34
+00:02:29,020 --> 00:02:34,420
+there has to be a threat source that has a likelihood of occurring to me,
+必须存在一个对我而言有可能发生的威
+胁来源。
+
+35
+00:02:34,420 --> 00:02:39,090
+and then I have to have a vulnerability that makes me susceptible to being hurt.
+然后我必须有一种脆弱性，使我容易受
+到伤害。
+
+36
+00:02:40,150 --> 00:02:44,410
+Now I'm not Superman, so I am vulnerable to bullets.
+我不是超人，所以我也会被子弹击中。
+
+37
+00:02:44,410 --> 00:02:50,040
+If I'm vulnerable to bullets and there's a lot of threats and a high likelihood that they'll be shooting at me,
+如果我容易受到子弹的伤害，而且存在
+大量威胁，并且他们很可能会向我开枪，
+
+38
+00:02:50,040 --> 00:02:53,220
+like if I'm in the military or in the police force,
+比如，如果我在军队或警察部队服役，
+
+39
+00:02:53,220 --> 00:02:57,190
+then what we are going to do, look down that gray panel,
+那么我们接下来要做的就是，看那块灰
+色面板，
+
+40
+00:02:57,190 --> 00:02:59,530
+and you'll see that the vulnerability exists.
+你就会发现这个漏洞是存在的。
+
+41
+00:02:59,530 --> 00:03:02,590
+I'm vulnerable to that predisposing condition.
+我容易受到那种易感因素的影响。
+
+42
+00:03:02,590 --> 00:03:04,870
+I'm made of flesh and bone,
+我由血肉之躯构成，
+
+43
+00:03:04,870 --> 00:03:10,060
+and then you'll see a white box that says security controls.
+然后你会看到一个写着“安全控制”的白
+色框。
+
+44
+00:03:10,060 --> 00:03:14,930
+So if there are threat sources that are likely to take advantage of my vulnerability,
+因此，如果存在可能利用我的漏洞的威
+胁来源，
+
+45
+00:03:14,930 --> 00:03:18,280
+then I'm going to want to put security controls in place.
+那么我将需要实施安全控制措施。
+
+46
+00:03:18,280 --> 00:03:20,150
+If I'm in the military or the police force,
+如果我在军队或警察部队服役，
+
+47
+00:03:20,150 --> 00:03:24,650
+I might wear a bulletproof vest. I don't normally do that as a normal person,
+我可能会穿防弹背心。作为一个普通人
+，我通常不会这么做。
+
+48
+00:03:24,650 --> 00:03:28,380
+but if the threat is high enough, and likely enough,
+但如果威胁足够高，且可能性足够大，
+
+49
+00:03:28,380 --> 00:03:32,220
+and I'm vulnerable enough to it, then I'm going to do something about it.
+如果我足够脆弱，那么我就会采取行动
+来应对它。
+
+50
+00:03:32,220 --> 00:03:35,280
+Maybe quitting the police force. I can avoid the risk altogether,
+也许可以辞去警察的工作。我可以完全
+避开风险。
+
+51
+00:03:35,280 --> 00:03:36,900
+or I can wear a bulletproof vest,
+或者我可以穿防弹背心，
+
+52
+00:03:36,900 --> 00:03:41,400
+which would reduce the risk. So we put security controls in place.
+这将降低风险。因此，我们实施了安全
+控制措施。
+
+53
+00:03:41,400 --> 00:03:51,940
+Those are countermeasures. Those are actions and technology and practices that we put into place to reduce the likelihood of that threat
+这些是应对措施。这些是我们采取的行
+动、技术和做法，旨在降低威胁发生的可
+能性。
+
+54
+00:03:51,940 --> 00:03:55,660
+hurting us. Now, in the last upper corner,
+伤害我们。现在，在上方的最后一个角
+落里，
+
+55
+00:03:55,660 --> 00:04:00,580
+if a threat source is able to take advantage of our vulnerability,
+如果威胁源能够利用我们的漏洞，
+
+56
+00:04:00,580 --> 00:04:05,200
+that leads to an impact. The word impact is important as well.
+这会导致一种影响。“影响”这个词也很
+重要。
+
+57
+00:04:05,200 --> 00:04:12,470
+The adverse impact. The impact measurement is a big part of how big the risk is.
+不利影响。影响程度是衡量风险大小的
+重要部分。
+
+58
+00:04:12,470 --> 00:04:15,710
+If I might die, that's a pretty big impact.
+如果我可能会死，那将是一个相当大的
+影响。
+
+59
+00:04:15,710 --> 00:04:18,470
+If I might miss 10 minutes of work,
+如果我可以少工作10分钟，
+
+60
+00:04:18,470 --> 00:04:27,710
+that's a pretty low impact. So the amount of impact that we might face is going to play a big part into how big that risk will be.
+那影响相当小。因此，我们可能面临的
+影响程度将在很大程度上决定风险的大小
+。
+
+61
+00:04:27,710 --> 00:04:31,240
+Now, if the likelihood and the impact are high enough,
+现在，如果可能性足够高且影响足够大
+，
+
+62
+00:04:32,470 --> 00:04:37,870
+I'm going to put controls in place to reduce the likelihood or to reduce the impact.
+我将采取控制措施，以减少发生的可能
+性或减轻其影响。
+
+63
+00:04:37,870 --> 00:04:43,030
+So I can quit the military or the police force to reduce the likelihood of that happening to me,
+这样我就可以退出军队或警察队伍，以
+减少这种情况发生在我身上的可能性。
+
+64
+00:04:43,030 --> 00:04:46,990
+or I can stay in an armored vehicle or wear a bulletproof vest to reduce
+或者我可以待在装甲车里，或者穿防弹
+背心来减少风险。
+
+65
+00:04:48,300 --> 00:04:52,200
+the likelihood by leaving the police force,
+离开警队的可能性，
+
+66
+00:04:52,200 --> 00:04:56,400
+reduce the impact by putting controls in place like body armor and things like that.
+通过采取防护措施，如防弹衣等，来减
+轻冲击的影响。
+
+67
+00:04:56,400 --> 00:05:02,220
+So you put controls in place to reduce the likelihood or the impact of that risk.
+因此，你制定了控制措施来降低这种风
+险发生的可能性或其影响。
+
+68
+00:05:02,220 --> 00:05:05,340
+And what you end up with after implementing all your controls,
+在你实施了所有控制措施之后，最终得
+到的结果是，
+
+69
+00:05:05,340 --> 00:05:07,320
+dealing with all your threats, all your vulnerabilities,
+应对你所有的威胁，所有的弱点，
+
+70
+00:05:07,320 --> 00:05:17,470
+all the countermeasures that you put in place, that last box in the corner is your residual risk as an organization. organization. As an organization,
+你所采取的所有应对措施，角落里的最
+后一个箱子就是你们组织所面临的剩余风
+险。作为组织，
+
+71
+00:05:17,470 --> 00:05:19,150
+some are willing to be risky,
+有些人愿意冒险，
+
+72
+00:05:19,150 --> 00:05:22,090
+while others are much more risk averse.
+而其他人则更加厌恶风险。
+
+73
+00:05:22,090 --> 00:05:29,470
+Your organizational risk is what's left after all your controls and thinking about all the threats and vulnerabilities you have.
+你的组织风险是在你采取了所有控制措
+施并考虑了所有威胁和漏洞之后剩下的风
+险。
+
+74
+00:05:29,470 --> 00:05:33,010
+What risk do we have? If that risk is too high,
+我们面临什么风险？如果这种风险太高
+，
+
+75
+00:05:33,010 --> 00:05:39,770
+what do we do about it? We put more controls in place to reduce the likelihood or impact so that we can
+我们该怎么做？我们实施更多的控制措
+施来降低发生的可能性或影响，以便我们
+能够……
+
+76
+00:05:39,770 --> 00:05:46,250
+reduce the overall risk to our organization and get it to a level we are willing to accept.
+降低我们组织的整体风险，并将其降至
+我们愿意接受的水平。
+
+77
+00:05:46,250 --> 00:05:49,790
+There's no such thing as eliminating all risk.
+不存在完全消除所有风险的情况。
+
+78
+00:05:49,790 --> 00:05:52,790
+All we do is reduce risk to an acceptable level,
+我们所做的就是将风险降低到可接受的
+水平。
+
+79
+00:05:52,790 --> 00:05:54,710
+and that's really our goal.
+这确实是我们的目标。
+
+80
+00:05:54,710 --> 00:06:06,070
+So those security controls we put in place are really the barrier between these potential impacts and threats and being able to reduce that to an acceptable level.
+因此，我们实施的这些安全控制措施实
+际上是这些潜在影响和威胁之间的屏障，
+能够将它们降低到可接受的水平。
