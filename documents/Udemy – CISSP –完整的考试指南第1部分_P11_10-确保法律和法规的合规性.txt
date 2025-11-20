@@ -1,0 +1,241 @@
+1
+00:00:06,710 --> 00:00:10,070
+As an information security professional,
+作为一名信息安全专业人士，
+
+2
+00:00:10,070 --> 00:00:18,480
+part of your job is to understand and know what requirements you have to comply with,legal and regulatory.
+你工作的一部分是理解和了解你必须遵
+守的法律和监管要求。
+
+3
+00:00:18,480 --> 00:00:21,880
+You need to know the laws. If you're in the healthcare industry,
+你需要了解相关法律。如果你在医疗保
+健行业工作，
+
+4
+00:00:21,880 --> 00:00:24,640
+you need to know what it means to be HIPAA compliant.
+你需要了解什么是符合HIPAA标准。
+
+5
+00:00:24,640 --> 00:00:27,700
+Make sure you're following those regulatory requirements.
+确保你遵守了这些监管要求。
+
+6
+00:00:27,700 --> 00:00:32,020
+If you're dealing with payment cards, you need to know what the PCI data security standards are.
+如果你在处理支付卡，你需要了解PCI数
+据安全标准是什么。
+
+7
+00:00:32,020 --> 00:00:33,700
+If you want to do business in Europe,
+如果你想在欧洲做生意，
+
+8
+00:00:33,700 --> 00:00:36,580
+you need to know what GDPR mandates.
+你需要了解GDPR的规定。
+
+9
+00:00:36,580 --> 00:00:37,900
+That's part of your job.
+那是你的工作的一部分。
+
+10
+00:00:37,900 --> 00:00:42,040
+Now you need to know which regulations you are going to have to comply with.
+现在你需要了解你将需要遵守哪些法规
+。
+
+11
+00:00:42,040 --> 00:00:45,280
+For example, if I just have one customer in Europe,
+例如，如果我在欧洲只有一个客户，
+
+12
+00:00:45,280 --> 00:00:48,800
+does my whole organization have to comply with GDPR?
+我的整个组织都需要遵守GDPR吗？
+
+13
+00:00:48,800 --> 00:00:51,500
+If you don't know the answers to those questions,
+如果你不知道这些问题的答案，
+
+14
+00:00:51,500 --> 00:01:02,780
+get some legal help. Make sure you figure that out because if you don't meet those specific requirements and you don't perform those actions that you're supposed to comply with,
+寻求一些法律帮助。确保你弄清楚这一
+点，因为如果你不满足这些具体要求，也
+不履行你应当遵守的行动，
+
+15
+00:01:02,780 --> 00:01:05,660
+there are repercussions. There are penalties.
+会有后果。会有惩罚。
+
+16
+00:01:05,660 --> 00:01:10,220
+Sometimes they are financial, and sometimes it could really cause problems for your organization.
+有时它们是财务上的问题，有时则可能
+真的给你的组织带来麻烦。
+
+17
+00:01:10,220 --> 00:01:18,420
+So just make sure that you get the necessary counsel to make sure you're complying with those important things.
+因此，请务必获得必要的建议，以确保
+你遵守这些重要事项。
+
+18
+00:01:18,420 --> 00:01:21,420
+One example here is the federal government.
+这里的一个例子是联邦政府。
+
+19
+00:01:21,420 --> 00:01:24,060
+If you work for the United States government,
+如果你为美国政府工作，
+
+20
+00:01:24,060 --> 00:01:26,940
+you have to comply with FISMA.
+你必须遵守FISMA。
+
+21
+00:01:26,940 --> 00:01:28,980
+If you don't work for the federal government,
+如果你不为联邦政府工作，
+
+22
+00:01:28,980 --> 00:01:35,140
+you don't have to worry about that. Now FISMA gives plenty of guidance.
+你不需要担心这个问题。现在FISMA提
+供了大量指导。
+
+23
+00:01:35,140 --> 00:01:36,580
+Even if you don't work for the government,
+即使你不为政府工作，
+
+24
+00:01:36,580 --> 00:01:40,360
+you could use FISMA to help you define your policies.
+你可以使用FISMA来帮助你定义你的政
+策。
+
+25
+00:01:40,360 --> 00:01:43,180
+But FISMA is specifically for the federal government.
+但FISMA是专门针对联邦政府的。
+
+26
+00:01:43,180 --> 00:01:47,380
+So agencies of the government, when they create their security policies,
+因此，政府机构在制定安全政策时，
+
+27
+00:01:47,380 --> 00:01:50,680
+they need to make sure that it aligns with FISMA.
+他们需要确保这与FISMA（联邦信息安
+全管理法案）保持一致。
+
+28
+00:01:50,680 --> 00:01:53,800
+If you are doing business in Great Britain,
+如果你在英国做生意，
+
+29
+00:01:53,800 --> 00:02:00,500
+you need to make sure that your organization's policies align with GDPR.
+你需要确保你组织的政策符合GDPR的
+要求。
+
+30
+00:02:00,500 --> 00:02:04,340
+Before GDPR, there was something called Safe Harbor,
+在GDPR之前，有一种叫做“安全港”（S
+afe Harbor）的机制。
+
+31
+00:02:04,340 --> 00:02:08,600
+and there were organizations that would say,Hey, we have this Safe Harbor framework,
+还有一些组织会说：“嘿，我们有这个安
+全港框架。”
+
+32
+00:02:08,600 --> 00:02:14,840
+and here are things you can do to align with all the US privacy laws and Europe's privacy laws.
+以下是你可以采取的措施，以符合美国
+和欧洲的所有隐私法律。
+
+33
+00:02:14,840 --> 00:02:18,920
+Now, with Europe updating things and GDPR being available,
+现在，随着欧洲更新相关法规和GDPR
+（通用数据保护条例）的实施，
+
+34
+00:02:18,920 --> 00:02:21,860
+there's something called Privacy Shield.
+有一种叫做“隐私盾”的东西。
+
+35
+00:02:21,860 --> 00:02:28,320
+Privacy Shield is kind of the new and improved version of what the Safe Harbor rules were.
+隐私盾协议可以说是安全港规则的升级
+版。
+
+36
+00:02:28,320 --> 00:02:33,540
+The idea is making sure you're taking the necessary actions to comply.
+这个想法是确保你采取了必要的行动来
+遵守规定。
+
+37
+00:02:35,810 --> 00:02:39,350
+That's an important thing. If you're an information security professional,
+这是一件重要的事情。如果你是一名信
+息安全专业人士，
+
+38
+00:02:39,350 --> 00:02:42,530
+that's part of your job to make sure you're complying with these things.
+这是你工作的一部分，确保你遵守这些
+规定。
+
+39
+00:02:42,530 --> 00:02:46,550
+So get some guidance, get privacy shield guidance or safe harbor guidance.
+因此，获取一些指导，比如隐私保护指
+导或安全港指导。
+
+40
+00:02:46,550 --> 00:02:48,470
+Make sure you get legal counsel.
+确保你获得法律咨询。
+
+41
+00:02:48,470 --> 00:02:54,230
+Make sure you understand your requirements,
+确保你理解自己的需求，
+
+42
+00:02:54,230 --> 00:02:56,210
+regulatory, legislatively, in industry standards requirements,
+监管、立法、行业标准要求，
+
+43
+00:02:56,210 --> 00:02:58,610
+and make sure you follow those requirements.
+并确保你遵守这些要求。
+
+44
+00:02:58,610 --> 00:03:04,430
+That will lead you to a more secure organization and also make sure that you don't face negative repercussions.
+这将引导你建立一个更安全的组织，同
+时确保你不会面临负面后果。
