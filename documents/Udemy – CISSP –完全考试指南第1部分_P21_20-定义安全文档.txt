@@ -1,0 +1,461 @@
+1
+00:00:07,360 --> 00:00:13,960
+On the CISP exam, you're going to get some tricky questions.
+在CISP考试中，你会遇到一些棘手的问
+题。
+
+2
+00:00:13,960 --> 00:00:19,960
+Pay special attention to this now because I'm going to help you get a few extra right answers on the exam.
+现在要特别注意这一点，因为我会帮助
+你多答对一些考试题目。
+
+3
+00:00:19,960 --> 00:00:23,140
+On the exam, you'll get questions where they'll ask a question,
+在考试中，你会遇到一些题目，他们会
+提出一个问题，
+
+4
+00:00:23,140 --> 00:00:25,360
+they'll have multiple right answers,
+他们会有多个正确答案，
+
+5
+00:00:25,360 --> 00:00:29,500
+and you need to pick the best of the right answers.
+你需要从正确的答案中挑选出最好的。
+
+6
+00:00:29,500 --> 00:00:37,540
+How do you decide that? one technique I have is called the umbrella method.
+你如何做出这个决定？我使用的一种方
+法叫做伞形法。
+
+7
+00:00:37,540 --> 00:00:40,900
+There will be a question, and there will be two correct answers.
+会有一个问题，并且会有两个正确答案
+。
+
+8
+00:00:40,900 --> 00:00:43,540
+One of them is a broad,
+其中之一是一条宽阔的，
+
+9
+00:00:43,540 --> 00:00:47,260
+overarching answer, and the other one is a very specific,
+总体性的答案，另一个则是非常具体的
+，
+
+10
+00:00:47,260 --> 00:00:50,440
+detailed answer. There might be two answers saying the same thing,
+详细回答。可能会有两个答案表达相同
+的意思，
+
+11
+00:00:50,440 --> 00:00:54,160
+but one is more specific, and the other is less specific.
+但一个是更具体的，另一个则不那么具
+体。
+
+12
+00:00:54,160 --> 00:00:59,870
+Now,in general, if the question covers broad general topics,
+现在，一般来说，如果问题涉及广泛的
+一般性主题，
+
+13
+00:00:59,870 --> 00:01:02,750
+you need to choose the broad general answer.
+你需要选择广泛的一般性答案。
+
+14
+00:01:02,750 --> 00:01:05,390
+If the question gets very detailed and specific,
+如果问题变得非常详细和具体，
+
+15
+00:01:05,390 --> 00:01:09,050
+then you need to choose the more detailed and specific answer.
+那么你需要选择更详细和具体的答案。
+
+16
+00:01:09,050 --> 00:01:12,770
+The most common type is the broad general questions.
+最常见的是宽泛的一般性问题。
+
+17
+00:01:12,770 --> 00:01:21,560
+The CISSP exam, sometimes people call it a mile wide and an inch deep. Meaning you don't need to be a specialist in any area of the exam.
+CISSP考试，有时人们称它为“一英里宽
+，一英寸深”。意思是说，你不需要在考试
+的任何领域成为专家。
+
+18
+00:01:21,560 --> 00:01:23,480
+You just need to know a little bit of depth,
+你只需要了解一点深度，
+
+19
+00:01:23,480 --> 00:01:26,240
+but you need to know a broad coverage of areas.
+但你需要了解广泛的领域。
+
+20
+00:01:26,240 --> 00:01:30,620
+So general broad answers are pretty good answers.
+因此，广泛而笼统的回答通常是不错的
+回答。
+
+21
+00:01:30,620 --> 00:01:34,820
+Now we're going to talk about developing and implementing security policy.
+现在我们来谈谈制定和实施安全政策。
+
+22
+00:01:34,820 --> 00:01:42,360
+The reason I'm talking about this kind of question right now is because the word policy is a great word on the CISSP exam.
+我现在谈论这类问题的原因是，“政策”
+这个词在CISSP考试中非常重要。
+
+23
+00:01:42,360 --> 00:01:46,740
+The word policy can cover a lot of things.
+“政策”这个词可以涵盖很多内容。
+
+24
+00:01:46,740 --> 00:01:56,700
+It's a broad word that can cover all sorts of situations and different kinds of things you might face in the real world.
+这是一个宽泛的词，可以涵盖各种情况
+以及你在现实世界中可能遇到的各种不同
+的事物。
+
+25
+00:01:56,700 --> 00:02:00,300
+So, if you ever see answers that include the word policy,
+所以，如果你看到包含“政策”这个词的
+答案，
+
+26
+00:02:00,300 --> 00:02:02,700
+there's a good likelihood that that's the right answer.
+很有可能那就是正确答案。
+
+27
+00:02:02,700 --> 00:02:08,880
+Not always, but you just need to read the question and make sure you focus on every word in the question and every answer.
+不总是这样，但你只需要仔细阅读问题
+，确保你关注问题中的每一个词以及每一
+个答案。
+
+28
+00:02:08,880 --> 00:02:10,320
+If you see policy in there,
+如果你看到其中的政策，
+
+29
+00:02:10,320 --> 00:02:14,280
+that's a pretty good umbrella answer that covers a lot of ground.
+这是一个相当不错的伞式回答，涵盖了
+很多方面。
+
+30
+00:02:14,280 --> 00:02:26,620
+So let's talk a little bit about policies and other documents that we will encounter in the business world and how they all tie together to help support a secure organization.
+那么，让我们来谈谈在商业世界中会遇
+到的一些政策和其他文件，以及它们如何
+相互关联，共同支持一个安全的组织。
+
+31
+00:02:26,620 --> 00:02:34,300
+The word policy, you'll see that those blue boxes,two of them,include the word policy or policies.
+你会看到，这些蓝色方框中，有两个包
+含了“政策”这个词。
+
+32
+00:02:34,300 --> 00:02:41,900
+Our organization's overarching policy should be a major document that is general enough that it can
+我们组织的总体政策应是一份重要文件
+，其内容应足够广泛，以便能够……
+
+33
+00:02:41,900 --> 00:02:44,660
+accommodate all sorts of weird,
+容纳各种奇怪的事物，
+
+34
+00:02:44,660 --> 00:02:50,490
+different, unique situations that we might come into. So that kind of establishes the tone,
+我们可能会遇到不同且独特的情况。因
+此，这某种程度上确立了基调。
+
+35
+00:02:50,490 --> 00:02:53,430
+the fact that we're going to be doing security around here.
+我们将在这一带加强安保。
+
+36
+00:02:53,430 --> 00:02:58,170
+That's our management security statement included in that as well.
+那也是我们管理安全声明的一部分。
+
+37
+00:02:58,170 --> 00:03:01,770
+Underneath that is the functional implementing policies.
+其下是功能性的实施政策。
+
+38
+00:03:01,770 --> 00:03:04,470
+So you might have an acceptable use policy.
+因此，你可能有一项可接受的使用政策
+。
+
+39
+00:03:04,470 --> 00:03:12,310
+You might have a policy on various specific items within your organization.
+你的组织中可能对各种具体事项制定了
+政策。
+
+40
+00:03:12,310 --> 00:03:18,070
+All of your policies should fall under the legal jurisdiction of the country,
+你所有的政策都应受该国法律管辖。
+
+41
+00:03:18,070 --> 00:03:21,370
+the city, the state, the county where you do business.
+你开展业务的城市、州和县。
+
+42
+00:03:21,370 --> 00:03:25,450
+If your policy is at odds with your government's laws,
+如果你的政策与政府的法律相冲突，
+
+43
+00:03:25,450 --> 00:03:35,290
+you're going to have problems. So the jurisdictional laws and regulatory requirements will drive our policies.
+你将遇到问题。因此，管辖权法律和监
+管要求将决定我们的政策。
+
+44
+00:03:35,290 --> 00:03:39,830
+Our general policies will drive our functional policies,
+我们的总体政策将指导我们的职能政策
+。
+
+45
+00:03:39,830 --> 00:03:45,410
+and those functional policies might include standards,
+这些功能性政策可能包括标准，
+
+46
+00:03:45,410 --> 00:03:53,090
+procedures, baselines,and guidelines. Now, we're talking about the exam and how to answer questions right on the exam.
+程序、基线和指南。现在，我们谈论的
+是考试以及如何在考试中正确回答问题。
+
+47
+00:03:53,090 --> 00:03:55,180
+If you know your vocabulary,
+如果你掌握了词汇，
+
+48
+00:03:56,270 --> 00:04:05,570
+and you read carefully, you'll see a lot of times there'll be a keyword in the question that points you to the right answer.
+如果你仔细阅读，你会发现很多时候问
+题中会有一个关键词，它会引导你找到正
+确答案。
+
+49
+00:04:05,570 --> 00:04:08,570
+Knowing your vocabulary is an important part of the exam.
+掌握词汇量是考试的重要组成部分。
+
+50
+00:04:08,570 --> 00:04:17,209
+The word policy is an important word, but we also need to know the definition of these four document types as well.
+“政策”这个词很重要，但我们也需要了
+解这四种文件类型的定义。
+
+51
+00:04:17,209 --> 00:04:24,210
+So what is a standard? A standard is like the official way we do things.So you might have,for example,
+那么什么是标准呢？标准就像我们做事
+的官方方式。例如，你可能会遇到……
+
+52
+00:04:24,210 --> 00:04:31,830
+a standard operating system that every computer has installed or a standard web browser that everyone has to use.
+每台计算机都安装的标准操作系统，或
+者每个人都必须使用的标准网络浏览器。
+
+53
+00:04:31,830 --> 00:04:36,750
+Standard means a specific hardware or software that we use around here.
+标准是指我们在这里使用的特定硬件或
+软件。
+
+54
+00:04:36,750 --> 00:04:44,610
+A procedure, step-by-step instructions, guides you through a process to achieve a result that you might want.
+一种程序，逐步的指导说明，引导你完
+成一个过程，以实现你想要的结果。
+
+55
+00:04:44,610 --> 00:04:48,130
+And mature organizations usually have a lot of processes,
+成熟的组织通常拥有大量流程，
+
+56
+00:04:48,130 --> 00:04:57,430
+a lot of procedures. And that step-by-step guidance will give us instruction on how to achieve the result that the organization wants to achieve.
+许多程序。这些逐步指导将为我们提供
+如何实现组织想要达到的结果的指示。
+
+57
+00:04:57,620 --> 00:05:04,760
+Baselines. A baseline is a minimum level of implementation that you have to have.
+基线。基线是你必须达到的最低实施水
+平。
+
+58
+00:05:04,760 --> 00:05:07,880
+It's like the measuring stick that we measure everything against.
+它就像我们衡量一切的标准。
+
+59
+00:05:07,880 --> 00:05:11,060
+It's a consistent level of security that has to be in place.
+这是一种必须持续保持的安全水平。
+
+60
+00:05:11,060 --> 00:05:16,580
+And that's the lowest level that we have established as the baseline.
+这就是我们设定的最低基准线。
+
+61
+00:05:16,580 --> 00:05:21,080
+And you can deviate from the baseline. A lot of times we'll go above and beyond the baseline,
+你可以偏离基准线。很多时候，我们会
+远远超出基准线。
+
+62
+00:05:21,080 --> 00:05:25,560
+but that baseline sets the tone. And then guidelines.
+但这个基准设定了基调。然后是指导方
+针。
+
+63
+00:05:25,560 --> 00:05:29,220
+Guidelines are just suggestions, just recommendations.
+指南只是建议，只是推荐。
+
+64
+00:05:29,220 --> 00:05:36,780
+If you have in a policy document some guidelines, employees are not mandated to follow those.
+如果政策文件中包含一些指导方针，员
+工并不强制要求遵守这些规定。
+
+65
+00:05:36,780 --> 00:05:39,240
+They don't have to. They're just suggestions.
+他们不必这么做。这些只是建议。
+
+66
+00:05:39,240 --> 00:05:43,740
+For example, you might have some password guidelines like,
+例如，你可能会制定一些密码准则，比
+如：
+
+67
+00:05:43,740 --> 00:05:47,340
+hey, your password should include uppercase and lowercase.
+嘿，你的密码应该包含大写和小写字母
+。
+
+68
+00:05:47,340 --> 00:05:49,620
+And if it's a guideline, that means it's not enforced.
+如果它只是一个指导方针，那就意味着
+它不会被强制执行。
+
+69
+00:05:49,620 --> 00:05:55,260
+I don't have to do that. So guidelines are just suggestions or recommendations.
+我不需要这么做。因此，指导方针只是
+建议或推荐。
+
+70
+00:05:55,260 --> 00:06:00,460
+So make sure you have that locked in. You might get a question that says,hey, there's a guideline that says this,
+所以，确保你记住了这一点。你可能会
+遇到这样的问题：“嘿，这里有一条指导原
+则说……”
+
+71
+00:06:00,460 --> 00:06:02,920
+and you need to know that if it's a guideline,
+你需要知道，如果这是一个指导方针，
+
+72
+00:06:02,920 --> 00:06:07,840
+it's not enforceable necessarily. If it's a policy statement that says you have to do this,
+这不一定具有强制性。如果是一份政策
+声明，要求你必须这样做，
+
+73
+00:06:07,840 --> 00:06:10,180
+that is a mandate that you can enforce.
+那是一项你可以强制执行的命令。
+
+74
+00:06:10,180 --> 00:06:14,560
+That is not optional. That is a mandatory thing.
+那不是可选的。那是必须的事情。
+
+75
+00:06:14,560 --> 00:06:17,920
+So just note, guidelines are recommendations,suggestions,
+请注意，指南是建议和推荐。
+
+76
+00:06:17,920 --> 00:06:21,100
+and usually it's like,hey, if you're in charge of backing up on Friday night,
+通常来说，就是这样的：嘿，如果你负
+责周五晚上的备份工作，
+
+77
+00:06:21,100 --> 00:06:23,080
+make sure that you consider these things.
+确保你考虑这些事情。
+
+78
+00:06:23,080 --> 00:06:24,800
+And if it's good advice to people,
+如果这是对人们有益的建议，
+
+79
+00:06:24,800 --> 00:06:29,540
+but it's not an enforceable thing. Good.
+但这并不具有强制力。很好。
+
+80
+00:06:29,540 --> 00:06:33,860
+So know what standards, procedures,
+那么了解标准和程序，
+
+81
+00:06:33,860 --> 00:06:35,660
+baselines, guidelines, and especially know what policy means.
+基线、指导方针，尤其是要了解政策的
+具体含义。
+
+82
+00:06:35,660 --> 00:06:41,820
+Go study the glossary. Make sure that you got those definitions locked in so that you can get those questions right on the exam.
+去研究一下术语表。确保你牢牢记住这
+些定义，这样在考试中才能答对相关题目
+。
