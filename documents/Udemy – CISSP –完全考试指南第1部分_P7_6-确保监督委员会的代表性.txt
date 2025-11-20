@@ -1,0 +1,323 @@
+1
+00:00:06,890 --> 00:00:11,150
+Let's talk about an effective security program.
+让我们来谈谈一个有效的安全计划。
+
+2
+00:00:11,150 --> 00:00:17,090
+Security needs to be more than just a side thought or an afterthought,as it is in a lot of organizations.
+安全不能仅仅是一个附带的想法或事后
+才考虑的事情，就像许多组织中那样。
+
+3
+00:00:17,090 --> 00:00:22,430
+There should be an official security program established in your organization.
+你的组织中应建立官方的安全计划。
+
+4
+00:00:23,180 --> 00:00:34,460
+An oversight committee should have broad representation from all the different divisions and departments in your organization in guiding and directing the security decisions.
+监督委员会应广泛代表组织中所有不同
+的部门和单位，以指导和决定安全事务。
+
+5
+00:00:34,460 --> 00:00:41,180
+This not only helps those decisions be smarter because we're getting input from all the different areas of the organization,
+这不仅有助于做出更明智的决策，因为
+我们可以从组织的不同领域获得输入意见
+。
+
+6
+00:00:41,180 --> 00:00:45,080
+but it also makes sure that security is on everyone's mind.
+但它也确保了安全成为每个人心中的关
+注点。
+
+7
+00:00:45,080 --> 00:00:50,700
+Security is everyone's responsibility, but it needs to be reinforced.
+安全是每个人的责任，但需要进一步加
+强。
+
+8
+00:00:50,700 --> 00:00:58,920
+A security council is a group generally of management-level people with broad representation across the organization.
+安全委员会通常是由组织中具有广泛代
+表性的管理层人员组成的团队。
+
+9
+00:00:58,920 --> 00:01:04,440
+This group will have meetings and oversee the security program.
+这个小组将举行会议并监督安全计划。
+
+10
+00:01:04,440 --> 00:01:06,960
+In overseeing the security program,
+在监督安全计划的过程中，
+
+11
+00:01:06,960 --> 00:01:11,340
+they will be the ones that make decisions on how to spend the money.
+他们将是决定如何花钱的人。
+
+12
+00:01:11,340 --> 00:01:16,480
+They will decide, hey, this is a good idea. We should try this or we should go this direction.
+他们会决定，嘿，这是个好主意。我们
+应该试试这个，或者朝这个方向发展。
+
+13
+00:01:16,480 --> 00:01:21,830
+They will decide on project initiatives and prioritize the security efforts.
+他们将决定项目计划并优先考虑安全工
+作。
+
+14
+00:01:22,500 --> 00:01:28,380
+You probably are aware that most organizations don't just have unlimited resources and funds.
+你可能已经意识到，大多数组织并不拥
+有无限的资源和资金。
+
+15
+00:01:28,380 --> 00:01:30,540
+So with limited resources and funds,
+因此，在资源和资金有限的情况下，
+
+16
+00:01:30,540 --> 00:01:35,460
+we need to decide what is the best use of those resources and funds.
+我们需要决定这些资源和资金的最佳用
+途。
+
+17
+00:01:35,460 --> 00:01:43,720
+So prioritizing your security efforts is an important part. Reviewing and recommending new policies.
+因此，优先考虑安全工作是重要的一部
+分。审查并推荐新政策。
+
+18
+00:01:43,720 --> 00:01:46,900
+Policy should drive everything we do.
+政策应指导我们所做的一切。
+
+19
+00:01:46,900 --> 00:01:51,520
+Policy is the rules, the enforced mandates that we have to follow.
+政策是规则，是我们必须遵守的强制性
+规定。
+
+20
+00:01:51,520 --> 00:01:57,880
+So we're going to make sure that the oversight committee validates and ensures we have good policies.
+因此，我们将确保监督委员会验证并确
+保我们拥有良好的政策。
+
+21
+00:01:57,880 --> 00:02:00,340
+Auditing our security program is also important.
+审计我们的安全计划也很重要。
+
+22
+00:02:00,340 --> 00:02:10,280
+An audit is checking, verifying, usually independent auditors would come in to make sure that things are happening the way they are supposed to.
+审计是检查和核实的过程，通常由独立
+的审计人员进行，以确保事情按照应有的
+方式发生。
+
+23
+00:02:10,280 --> 00:02:15,380
+The security council should also champion security.
+安理会还应倡导安全。
+
+24
+00:02:15,380 --> 00:02:18,680
+Not only are they there to help make the right security decisions,
+他们不仅在那里帮助做出正确的安全决
+策，
+
+25
+00:02:18,680 --> 00:02:24,070
+but it's also there to reinforce security within each division and department of our organization.
+但它也用于加强我们组织内每个部门和
+单位的安全。
+
+26
+00:02:25,900 --> 00:02:29,440
+Also, when there are areas that need to be improved,
+此外，当存在需要改进的领域时，
+
+27
+00:02:29,440 --> 00:02:40,950
+this council will recognize that if you just have a security division that's part of IT and they're deciding what improvements need to be made,
+这个委员会将认识到，如果你只是有一
+个隶属于IT部门的安全部门，并且由他们
+来决定需要做出哪些改进，
+
+28
+00:02:40,950 --> 00:02:46,770
+there are many blind spots. So getting a good committee together gives you this voice,
+存在许多盲点。因此，组建一个优秀的
+委员会可以让你拥有这样的声音。
+
+29
+00:02:46,770 --> 00:02:56,830
+gives every organization a chance to feed into our knowledge base of security needs and help make good decisions across the security program.
+这为每个组织提供了机会，使其能够为
+我们的安全需求知识库做出贡献，并帮助
+在整个安全计划中做出明智的决策。
+
+30
+00:02:56,830 --> 00:03:02,890
+Now, the oversight committee representation should include end users.
+现在，监督委员会的成员应包括最终用
+户。
+
+31
+00:03:02,890 --> 00:03:12,790
+Don't forget them. A lot of times we see security programs push controls and policies on end users,
+不要忘记他们。很多时候，我们看到安
+全项目将控制措施和政策强加给终端用户
+。
+
+32
+00:03:12,790 --> 00:03:18,070
+and it makes their life difficult. In any security situation,
+这使他们的生活变得困难。在任何安全
+局势下，
+
+33
+00:03:18,070 --> 00:03:24,430
+the more secure you get, the more difficult it might be to actually make things function.
+你越觉得安全，实际上让事情运转起来
+可能就越困难。
+
+34
+00:03:24,430 --> 00:03:30,790
+So it's important to find a good balance between security and usability, security and functionality.
+因此，在安全性和可用性、安全性和功
+能性之间找到良好的平衡非常重要。
+
+35
+00:03:30,790 --> 00:03:33,250
+Make sure your end users have a voice.
+确保您的最终用户有发言权。
+
+36
+00:03:33,250 --> 00:03:36,250
+Executive management should absolutely be a part of this.
+高层管理绝对应该参与其中。
+
+37
+00:03:36,250 --> 00:03:42,890
+A lot of this is to get their feedback and to get their stamp of approval on things,
+很多工作都是为了获得他们的反馈，并
+获得他们对事情的认可。
+
+38
+00:03:42,890 --> 00:03:47,930
+but also to make sure security is something that's on their mind all the time.
+还要确保安全始终是他们时刻关注的事
+情。
+
+39
+00:03:47,930 --> 00:03:52,250
+Information system security professionals should be involved.
+信息系统安全专业人员应参与其中。
+
+40
+00:03:52,250 --> 00:03:58,670
+Executive management brings the business perspective in and they push a lot for the business side.
+高层管理团队带来了商业视角，并且他
+们非常重视业务方面的发展。
+
+41
+00:03:58,670 --> 00:04:04,010
+Information security people can come and make sure that we get that balance we're looking for.
+信息安全人员可以来确保我们达到所寻
+求的平衡。
+
+42
+00:04:04,010 --> 00:04:08,910
+Different owners of different divisions and business entities should be involved.
+应涉及不同部门和业务实体的不同负责
+人。
+
+43
+00:04:08,910 --> 00:04:19,110
+The data custodians,your database administrators, and people who have to work with that information should be represented in the committee.
+数据保管人、数据库管理员以及需要处
+理这些信息的人员应在委员会中得到代表
+。
+
+44
+00:04:19,110 --> 00:04:25,170
+Auditors will be the ones to make sure that we're doing things the way we've defined they have to be done.
+审计人员将确保我们按照我们定义的方
+式去做事情。
+
+45
+00:04:25,170 --> 00:04:27,810
+So they should be involved in this as well.
+因此，他们也应该参与其中。
+
+46
+00:04:27,810 --> 00:04:34,210
+Business continuity, those people who are making sure our business can continue even in the face of disaster,
+业务连续性，那些确保我们的业务即使
+在灾难面前也能继续运作的人，
+
+47
+00:04:34,210 --> 00:04:38,890
+they should have representation as well. And then just your IT staff,
+他们也应该有代表。然后还有你的IT人员
+，
+
+48
+00:04:38,890 --> 00:04:41,590
+there should be a voice for IT there.
+那里应该有一个IT的声音。
+
+49
+00:04:41,590 --> 00:04:45,910
+And that's usually there, but just make sure that everyone has a voice.
+这通常都是存在的，但请确保每个人都
+有发言的机会。
+
+50
+00:04:45,910 --> 00:04:49,570
+Security administrators should be involved as well.
+安全管理员也应参与其中。
+
+51
+00:04:49,570 --> 00:04:53,650
+Network and system administrators, all the different areas that we deal with,
+网络和系统管理员，我们涉及的所有不
+同领域，
+
+52
+00:04:53,650 --> 00:04:57,950
+with information, storage, transfer, processing,
+信息、存储、传输、处理，
+
+53
+00:04:57,950 --> 00:05:01,010
+there should be a voice. These people should have their voice heard.
+应该有一个声音。这些人应该被听到他
+们的声音。
+
+54
+00:05:01,010 --> 00:05:07,970
+So just an effective security program isn't just a person making mandates all the time.
+因此，一个有效的安全计划不仅仅是一
+个人不断发布指令。
+
+55
+00:05:07,970 --> 00:05:12,890
+It's a collective effort, and as we organize and create these committees,
+这是一项集体努力，当我们组织并创建
+这些委员会时，
+
+56
+00:05:12,890 --> 00:05:14,920
+we can make much better security decisions.
+我们可以做出更好的安全决策。
