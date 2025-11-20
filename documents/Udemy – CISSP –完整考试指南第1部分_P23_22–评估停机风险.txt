@@ -1,0 +1,656 @@
+1
+00:00:07,120 --> 00:00:17,740
+Business continuity and disaster recovery are crucial for keeping your business running and dealing with challenges and problems you might face.
+业务连续性和灾难恢复对于保持企业正
+常运营以及应对可能面临的挑战和问题至
+关重要。
+
+2
+00:00:17,740 --> 00:00:22,420
+As outages might occur to various elements of your business,
+由于您的业务中各个要素都可能发生中
+断，
+
+3
+00:00:22,420 --> 00:00:25,000
+you need a plan to deal with them.
+你需要一个应对他们的计划。
+
+4
+00:00:25,000 --> 00:00:30,460
+Part of that is understanding your business and what outages would affect.
+其中一部分是了解你的业务以及哪些中
+断会影响业务。
+
+5
+00:00:30,460 --> 00:00:31,900
+If your phone lines went down,
+如果你的电话线路断了，
+
+6
+00:00:31,900 --> 00:00:34,460
+would that affect your cash registers?
+这会影响你们的收银机吗？
+
+7
+00:00:34,460 --> 00:00:37,760
+If your power went out, that would affect your servers.
+如果停电了，那会影响你的服务器。
+
+8
+00:00:37,760 --> 00:00:42,260
+These are examples of outages that might disrupt your business.
+这些是可能扰乱您业务的停电示例。
+
+9
+00:00:42,260 --> 00:00:44,600
+Your business exists to deliver value,
+你的企业存在的目的是提供价值，
+
+10
+00:00:44,600 --> 00:00:48,980
+and these outages can disrupt that ability.
+这些中断可能会破坏这种能力。
+
+11
+00:00:48,980 --> 00:00:54,500
+Some of the outage-causing elements might come from the outside world.
+一些导致中断的因素可能来自外部世界
+。
+
+12
+00:00:55,110 --> 00:00:59,430
+External threats, things that have nothing to do with you per se,
+外部威胁，那些与你本身毫无关系的事
+物，
+
+13
+00:00:59,430 --> 00:01:03,330
+but your organization might be vulnerable to some of these things.
+但你的组织可能容易受到其中一些因素
+的影响。
+
+14
+00:01:03,330 --> 00:01:05,370
+For example, we mentioned a power outage.
+例如，我们提到了停电的情况。
+
+15
+00:01:05,370 --> 00:01:07,230
+If you have power fluctuations,
+如果你遇到电源波动，
+
+16
+00:01:07,230 --> 00:01:11,910
+power outages,or overvoltage, which can damage things.
+停电或过电压，这些都可能损坏设备。
+
+17
+00:01:11,910 --> 00:01:19,440
+So power problems are something to consider. When you are looking at threats that might cause disruptions to your business,
+因此，电力问题是需要考虑的因素。当
+你审视可能对业务造成中断的威胁时，
+
+18
+00:01:19,440 --> 00:01:22,920
+water is crucial. If you do not have water to your building,
+水是至关重要的。如果你的建筑没有水
+源，
+
+19
+00:01:22,920 --> 00:01:25,440
+you cannot expect people to come to work.
+你不能指望人们来上班。
+
+20
+00:01:25,440 --> 00:01:29,760
+They have to have water and bathroom facilities.
+他们必须有水和卫生间设施。
+
+21
+00:01:29,760 --> 00:01:33,240
+Water might be part of your cooling system.
+水可能是你冷却系统的一部分。
+
+22
+00:01:33,240 --> 00:01:42,640
+Water is a vital element. So consider water as another necessity when we are considering possible outages.
+水是至关重要的元素。因此，在考虑可
+能的停水情况时，应将水视为另一种必需
+品。
+
+23
+00:01:42,640 --> 00:01:47,320
+There are many common events that might occur that would cause issues,
+有许多常见的事件可能会发生，从而引
+发问题。
+
+24
+00:01:47,320 --> 00:01:55,960
+like a gas leak or somebody unplugging a server so they could plug in their vacuum cleaner and vacuum something,
+就像煤气泄漏，或者有人拔掉服务器的
+插头，以便插上他们的吸尘器来吸走什么
+东西。
+
+25
+00:01:55,960 --> 00:01:58,720
+or people accidentally deleting files.
+或者人们意外删除了文件。
+
+26
+00:01:58,720 --> 00:02:01,720
+Now,those would be internal,I guess. External,same thing.
+现在，我想这些应该是内部的。外部的
+也一样。
+
+27
+00:02:01,720 --> 00:02:09,860
+You might have all sorts of situations that could disrupt your ability to do your work.Internal threats and vulnerabilities also exist.
+你可能会遇到各种可能干扰你工作的情
+况。内部威胁和漏洞也存在。
+
+28
+00:02:09,860 --> 00:02:16,820
+Your own people,your own equipment, your own resources can sometimes cause outages and issues.
+你自己的员工、设备、资源有时也会导
+致停电和问题。
+
+29
+00:02:16,820 --> 00:02:27,560
+So just a hard drive going bad, if my server crashes or if a wire comes loose,then that could cause an outage.
+所以，如果硬盘坏了，或者服务器崩溃
+了，或者一根线缆松动了，都可能导致服
+务中断。
+
+30
+00:02:27,560 --> 00:02:31,440
+Equipment failing when we didn't expect it to fail is Do we have a backup?
+设备在我们意想不到的时候出现故障，
+我们是否有备用方案？
+
+31
+00:02:31,440 --> 00:02:33,420
+Do we have instant failover available,
+我们是否具备即时故障切换功能？
+
+32
+00:02:33,420 --> 00:02:35,040
+or do we have to order something new,
+还是我们必须订购一些新的东西？
+
+33
+00:02:35,040 --> 00:02:38,880
+wait for it to be delivered,and plug it in?
+等待它送达，然后插上电源？
+
+34
+00:02:38,880 --> 00:02:45,060
+The duration of the outage has a lot to do with our preparation for the potential outage.
+停电持续时间在很大程度上取决于我们
+对潜在停电的准备工作。
+
+35
+00:02:45,060 --> 00:02:46,200
+If we aren't even thinking about it,
+如果我们甚至没有去思考它，
+
+36
+00:02:46,200 --> 00:02:47,340
+if it's not on our radar,
+如果它不在我们的视线范围内，
+
+37
+00:02:47,340 --> 00:02:48,480
+we're not going to be prepared for it.
+我们不会为此做好准备。
+
+38
+00:02:48,480 --> 00:02:50,640
+So we need to think about equipment failing.
+因此，我们需要考虑设备故障的问题。
+
+39
+00:02:50,640 --> 00:02:56,780
+We need to think about mean time between failure. The average.
+我们需要考虑平均故障间隔时间。平均
+值。
+
+40
+00:02:56,780 --> 00:03:07,640
+In the last topic, we discussed the recovery time objective in relation to the maximum tolerable downtime.
+在上一个主题中，我们讨论了恢复时间
+目标与最大可容忍停机时间的关系。
+
+41
+00:03:07,640 --> 00:03:09,500
+So those you have to know.
+所以这些你必须了解。
+
+42
+00:03:09,500 --> 00:03:16,130
+Here's another little disaster recovery vocabulary term that you need to know:
+这里还有一个你需要了解的小型灾难恢
+复术语：
+
+43
+00:03:16,130 --> 00:03:21,170
+the mean time between failures. That's a measurement of reliability.
+平均故障间隔时间。这是衡量可靠性的
+指标。
+
+44
+00:03:21,170 --> 00:03:25,550
+When was the last time this hard drive had a problem,
+这台硬盘最后一次出现问题是什么时候
+？
+
+45
+00:03:25,550 --> 00:03:26,810
+and when we replaced it,
+当我们更换它时，
+
+46
+00:03:26,810 --> 00:03:29,390
+how long until it has a problem again?
+它多久后会再次出现问题？
+
+47
+00:03:29,390 --> 00:03:33,770
+How long is it usually between those two outages?
+这两次中断之间通常间隔多久？
+
+48
+00:03:33,770 --> 00:03:48,630
+That's the mean time. The word mean in this case means the average. The mean time between failures can give you at least a ballpark on when you would expect a failure to occur,
+那是平均时间。这里的“平均”指的是平
+均值。平均故障间隔时间可以让你大致了
+解故障发生的时间范围。
+
+49
+00:03:48,630 --> 00:03:50,250
+and then you can plan for that.
+然后你就可以为此做计划了。
+
+50
+00:03:50,250 --> 00:03:51,930
+The more you know, the more prepared you are,
+你了解得越多，准备就越充分。
+
+51
+00:03:51,930 --> 00:03:55,230
+and the better you can handle these disruptive events.
+并且你越能更好地应对这些破坏性事件
+。
+
+52
+00:03:55,230 --> 00:04:01,770
+Equipment might also fail due to human problems,human failures,
+设备也可能因人为问题或人为失误而发
+生故障。
+
+53
+00:04:01,770 --> 00:04:05,710
+right? If somebody does something wrong and overheats something,
+对吧？如果有人做错了事，把什么东西
+过热了，
+
+54
+00:04:05,710 --> 00:04:10,090
+or somebody unplugs something to plug in the vacuum cleaner,
+或者有人拔掉某样东西以便插上吸尘器
+，
+
+55
+00:04:10,090 --> 00:04:13,450
+there might be outages and failures due to human interaction,
+由于人为因素，可能会出现中断和故障
+。
+
+56
+00:04:13,450 --> 00:04:19,209
+people who make mistakes, or even people who maliciously do something.
+犯错的人，甚至那些恶意行事的人。
+
+57
+00:04:19,209 --> 00:04:22,089
+If I think I'm going to get fired and I want to get even with you,
+如果我觉得自己会被解雇，并且想报复
+你，
+
+58
+00:04:22,089 --> 00:04:24,250
+I might take a sledgehammer to the server.
+我可能会用大锤砸服务器。
+
+59
+00:04:24,250 --> 00:04:28,970
+Guess what? That would cause a server failure due to human reasons.
+猜猜看？这会导致服务器因人为原因而
+故障。
+
+60
+00:04:28,970 --> 00:04:34,790
+So these are things we need to consider and think about as we're considering possible outages.
+因此，在我们考虑可能的停机情况时，
+这些都是我们需要考虑和思考的事项。
+
+61
+00:04:34,790 --> 00:04:37,070
+And again, mean time between failures,
+再次，平均故障间隔时间，
+
+62
+00:04:37,070 --> 00:04:43,390
+that's another little vocabulary phrase that you'll want to know for the exam. So we have from the previous topic,
+那是另一个你考试时需要掌握的小词汇
+短语。我们从上一个主题中继续讲起，
+
+63
+00:04:43,390 --> 00:04:46,750
+we talked about the maximum tolerable downtime.
+我们讨论了最大可容忍的停机时间。
+
+64
+00:04:46,750 --> 00:04:49,630
+We talked about the recovery time objective.
+我们讨论了恢复时间目标。
+
+65
+00:04:49,630 --> 00:04:54,310
+The recovery time objective should be less than the maximum tolerable downtime,
+恢复时间目标应小于最大可容忍停机时
+间。
+
+66
+00:04:54,310 --> 00:04:58,210
+right? And the mean time between failures is a measurement of reliability.
+对吧？而平均故障间隔时间是可靠性的
+衡量指标。
+
+67
+00:04:58,210 --> 00:05:01,090
+Now let's talk about another measurement that you should know.
+现在我们来谈谈另一个你应该知道的测
+量方法。
+
+68
+00:05:01,090 --> 00:05:07,050
+It's called the recovery point objective. The recovery time objective says,
+这被称为恢复点目标。恢复时间目标则
+表示，
+
+69
+00:05:07,050 --> 00:05:12,510
+if we have a failure, how long do we have to recover?
+如果我们出现故障，需要多长时间才能
+恢复？
+
+70
+00:05:12,510 --> 00:05:14,910
+How long do we have to get it fixed?
+我们还有多长时间来解决这个问题？
+
+71
+00:05:14,910 --> 00:05:19,950
+And that time should be somewhat less than the maximum tolerable downtime because if it goes beyond that,
+而这段时间应略小于最大可容忍的停机
+时间，因为如果超过这个时间，
+
+72
+00:05:19,950 --> 00:05:22,110
+you can't tolerate that anymore, right?
+你再也无法忍受了，对吧？
+
+73
+00:05:22,110 --> 00:05:24,270
+So that's the recovery time objective.
+这就是恢复时间目标。
+
+74
+00:05:24,270 --> 00:05:27,630
+From that point of failure, it takes time to recover.
+从失败的那一刻起，需要时间才能恢复
+。
+
+75
+00:05:27,630 --> 00:05:33,070
+That's the recovery time objective. The other point objective is going back in time.
+那是恢复时间目标。另一个目标点是时
+间回溯。
+
+76
+00:05:33,070 --> 00:05:40,270
+We're looking at when was the last time we did a backup? If our last backup was five months ago,
+我们正在查看上次备份是什么时候进行
+的？如果我们的最后一次备份是在五个月
+前，
+
+77
+00:05:40,270 --> 00:05:43,930
+then we can only recover the data to that point in time.
+那么我们只能恢复到那个时间点的数据
+。
+
+78
+00:05:43,930 --> 00:05:50,890
+So the recovery point objective is what point in time or what point in the past can we recover to?
+那么恢复点目标是指我们可以恢复到哪
+个时间点或过去的哪个时刻？
+
+79
+00:05:50,890 --> 00:05:52,990
+If we're doing backups constantly,
+如果我们一直在进行备份，
+
+80
+00:05:52,990 --> 00:05:55,510
+then we can recover right up to the point of failure.
+这样我们就可以一直恢复到故障发生前
+的状态。
+
+81
+00:05:55,510 --> 00:05:57,130
+If we're doing backups nightly,
+如果我们每晚都进行备份，
+
+82
+00:05:57,130 --> 00:06:01,300
+we can only recover to last night. If we do our backups weekly,
+我们只能恢复到昨晚的状态。如果我们
+每周进行一次备份，
+
+83
+00:06:01,300 --> 00:06:04,240
+we can only recover to the point that we backed up.
+我们只能恢复到备份时的状态。
+
+84
+00:06:04,240 --> 00:06:10,240
+So that's the recovery point objective. That is how much data is acceptable to lose.
+这就是恢复点目标。它表示可以接受丢
+失的数据量。
+
+85
+00:06:10,240 --> 00:06:18,520
+If you didn't do a backup last night and you backed up maybe last week,
+如果你昨晚没有做备份，而上次备份可
+能是上周的事了，
+
+86
+00:06:18,520 --> 00:06:21,760
+then that basically means you're going to lose a week's worth of data.
+那么，这基本上意味着你将丢失一周的
+数据。
+
+87
+00:06:21,760 --> 00:06:28,370
+If you backed up last night, then you're only going to lose a day's worth of data or to the point of failure.
+如果你昨晚进行了备份，那么你只会丢
+失一天的数据，或者最多到故障发生时的
+数据。
+
+88
+00:06:28,370 --> 00:06:31,010
+If your crash occurred at 4 p.m.today,
+如果你的事故发生在今天下午4点，
+
+89
+00:06:31,010 --> 00:06:33,470
+we're going to recover from last night's backup.
+我们将从昨晚的备份中恢复。
+
+90
+00:06:33,470 --> 00:06:35,690
+So that means we lost a day's worth of data.
+这意味着我们丢失了一天的数据。
+
+91
+00:06:35,690 --> 00:06:37,370
+So if you're backing up daily,
+那么如果你每天备份，
+
+92
+00:06:37,370 --> 00:06:42,920
+you're saying, I'm okay losing a day's worth of work. If you back up weekly,okay,
+你说的是，我可以接受丢失一天的工作
+量。如果你每周备份一次，那没问题。
+
+93
+00:06:42,920 --> 00:06:45,740
+I'm okay losing a week's worth of work.
+我失去一周的工作量也没关系。
+
+94
+00:06:45,740 --> 00:06:49,880
+So your recovery point objective has to tie to your business.
+因此，你的恢复点目标必须与业务相关
+联。
+
+95
+00:06:49,880 --> 00:06:51,980
+You have to make those assessments.
+你必须做出这些评估。
+
+96
+00:06:51,980 --> 00:06:55,880
+The closer you want the recovery point to be to the failure,
+你希望恢复点越接近故障发生的位置，
+
+97
+00:06:55,880 --> 00:06:59,240
+if you don't want to lose even a second's worth of information,
+如果你不想丢失哪怕一秒钟的信息，
+
+98
+00:06:59,240 --> 00:07:06,360
+you can set up mechanisms that are constantly backing up. constantly shipping logs to an offsite server or something like that,
+你可以设置持续备份的机制，不断将日
+志传输到异地服务器或其他类似的地方。
+
+99
+00:07:06,360 --> 00:07:12,720
+but that costs more money. So the closer you get the recovery point objective to the failure,
+但这需要更多的资金。因此，你越接近
+故障恢复目标点，
+
+100
+00:07:12,720 --> 00:07:14,220
+the more money you have to spend.
+你拥有的钱越多，可以花的钱就越多。
+
+101
+00:07:14,220 --> 00:07:16,440
+By the way, the recovery time,
+顺便说一下，恢复时间，
+
+102
+00:07:16,440 --> 00:07:25,570
+if you think it's going to take four hours to perform the recovery, are you okay with everyone not doing work for four hours?
+如果你认为恢复操作需要四个小时，那
+么你是否接受所有人都不工作四个小时？
+
+103
+00:07:25,570 --> 00:07:29,170
+If you want to get your recovery time close to the failure,
+如果你想让恢复时间接近失败时间，
+
+104
+00:07:29,170 --> 00:07:31,150
+you can with the right equipment,
+你只要拥有合适的设备，就可以做到。
+
+105
+00:07:31,150 --> 00:07:34,810
+with the right investments,the right money spent,
+通过正确的投资，合理地花钱，
+
+106
+00:07:34,810 --> 00:07:37,810
+you can get a situation where when there's a failure,
+你可能会遇到这样的情况：当出现故障
+时，
+
+107
+00:07:37,810 --> 00:07:43,130
+you instantly recover. And you instantly recover to the point that it failed.
+你立刻恢复。而且你立刻恢复到它失败
+的那个点。
+
+108
+00:07:43,130 --> 00:07:45,770
+So you don't lose anything and you're instantly recovering,
+这样你就不会失去任何东西，还能立刻
+恢复。
+
+109
+00:07:45,770 --> 00:07:48,650
+but that costs money. Is it worth that much money?
+但这需要花钱。值得花这么多钱吗？
+
+110
+00:07:48,650 --> 00:07:52,250
+Last topic, we talked about how much money is this stuff worth?Well,
+上一个话题，我们讨论了这些东西值多
+少钱？那么，
+
+111
+00:07:52,250 --> 00:07:57,290
+it depends on the cost and the value that we're deriving from these things.
+这取决于成本以及我们从这些事物中获
+得的价值。
+
+112
+00:07:57,290 --> 00:08:01,500
+So don't spend more than it's worth. But if it's worth it,
+所以不要花超过它价值的钱。但如果它
+值得，
+
+113
+00:08:01,500 --> 00:08:08,400
+then you might want to think about getting those RPO and RTO as close to zero as you can,
+那么你可能需要考虑尽可能地将RPO和
+RTO降低到接近零。
+
+114
+00:08:08,400 --> 00:08:12,000
+as close to zero as is financially feasible.
+尽可能接近零，且在财务上可行。
+
+115
+00:08:12,000 --> 00:08:14,940
+So the RPO is the point in time to which we want to recover,
+因此，RPO（恢复点目标）是我们希望
+恢复的时间点。
+
+116
+00:08:14,940 --> 00:08:25,510
+and it has a lot to do with when our backups occur and if we're doing on-the-fly log shipping or if we're doing scheduled backups on a regular schedule.
+这与我们的备份发生的时间有很大关系
+，也取决于我们是进行实时日志传输，还
+是按照固定时间表进行定期备份。
+
+117
+00:08:25,510 --> 00:08:29,670
+We get to decide that and we need to make sure that decision makes sense for our business.
+我们可以决定这一点，并且需要确保这
+个决定对我们的业务有意义。
