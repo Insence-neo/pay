@@ -1,0 +1,295 @@
+1
+00:00:06,830 --> 00:00:14,990
+Security governance includes planning. When we start planning our information security strategies,
+安全治理包括规划。当我们开始规划信
+息安全策略时，
+
+2
+00:00:14,990 --> 00:00:18,050
+if you fail to plan, you plan to fail.
+如果你不计划，就是在计划失败。
+
+3
+00:00:18,050 --> 00:00:19,730
+Maybe you've heard that before.
+也许你以前听过这个。
+
+4
+00:00:19,730 --> 00:00:22,670
+When we start talking about security strategy planning,
+当我们开始谈论安全战略规划时，
+
+5
+00:00:22,670 --> 00:00:27,230
+there are three main levels of planning that you should know.
+你应该了解三个主要的规划层次。
+
+6
+00:00:27,230 --> 00:00:32,810
+First is strategic planning. That is the overarching,
+首先是战略规划。这是整体性的，
+
+7
+00:00:32,810 --> 00:00:37,950
+long-term kind of planning. Tactical planning is the medium-term.
+长期规划。战术规划则是中期规划。
+
+8
+00:00:37,950 --> 00:00:43,170
+We have tactical plans to help us achieve our strategic goals.
+我们有战术计划来帮助我们实现战略目
+标。
+
+9
+00:00:43,170 --> 00:00:47,370
+And then we have operational plans or project planning.
+然后我们还有运营计划或项目规划。
+
+10
+00:00:47,370 --> 00:00:54,000
+Those are the baby steps. Those are the nuts and bolts that help us achieve the tactical plans that help us achieve our strategic plans.
+这些是基础步骤。这些是帮助我们实现
+战术计划的关键要素，而战术计划又帮助
+我们实现战略目标。
+
+11
+00:00:54,720 --> 00:00:59,160
+So these three levels of planning can be thought of in time frames.
+因此，这三个规划层次可以从时间框架
+上加以理解。
+
+12
+00:00:59,160 --> 00:01:02,880
+For example, strategic planning you might measure in years.
+例如，战略规划你可能以年为单位来衡
+量。
+
+13
+00:01:02,880 --> 00:01:05,940
+Where do we want to be in five years, 10 years?
+我们希望五年、十年后达到什么位置？
+
+14
+00:01:05,940 --> 00:01:08,820
+Tactical planning you might measure in months.
+战术规划可能需要几个月的时间来衡量
+。
+
+15
+00:01:08,820 --> 00:01:13,260
+And then operational planning you might measure in days or weeks.
+而运营规划你可能会以天或周为单位来
+衡量。
+
+16
+00:01:13,260 --> 00:01:16,140
+You can also borrow a sports analogy.
+你也可以借用一个体育类比。
+
+17
+00:01:16,140 --> 00:01:21,650
+Maybe your favorite sports team has a head coach that wants to score a lot of points.
+也许你最喜欢的运动队的主教练想要得
+很多分。
+
+18
+00:01:21,780 --> 00:01:25,020
+Their goal,instead of focusing on defense,
+他们的目标，不是专注于防御，
+
+19
+00:01:25,020 --> 00:01:27,780
+they focus on offense. And then tactically,
+他们专注于进攻。然后从战术上来看，
+
+20
+00:01:27,780 --> 00:01:33,840
+they write a playbook that has a lot of plays that focus on scoring a lot of points.
+他们编写了一本战术手册，其中包含许
+多专注于得分的战术。
+
+21
+00:01:33,840 --> 00:01:40,680
+And then operationally, the players have to go and execute those plays in order to actually score the points.
+然后，在实际操作中，球员们必须去执
+行这些战术，才能真正得分。
+
+22
+00:01:40,680 --> 00:01:45,180
+And if they can plan well, then maybe they will succeed.
+如果他们能好好计划，那么也许他们会
+成功。
+
+23
+00:01:45,180 --> 00:01:56,200
+Or you can think just life in general. I worked as a salesperson for a while when I was in college for a company called Franklin Covey.
+或者你可以从整体上思考生活。我在大
+学期间曾做过一段时间的销售工作，当时
+是为一家叫富兰克林·柯维（Franklin Cov
+ey）的公司工作的。
+
+24
+00:01:56,200 --> 00:01:58,600
+And they did life and time management,
+他们还进行了生活和时间的管理，
+
+25
+00:01:58,600 --> 00:02:03,100
+life management kinds of things. And one of the
+生活管理类的事情。其中之一是
+
+26
+00:02:04,360 --> 00:02:08,860
+seminars I went to had this little role-playing thing that said,
+我去参加的研讨会中有一个小角色扮演
+环节，上面写着：
+
+27
+00:02:08,860 --> 00:02:10,720
+hey, when you're old and you look back on your life,
+嘿，当你老了，回顾你的一生时，
+
+28
+00:02:10,720 --> 00:02:14,980
+what do you want to see? And people thought about it and wrote down what they want to see.
+你想看什么？人们思考了一下，然后写
+下他们想看的内容。
+
+29
+00:02:14,980 --> 00:02:17,560
+That is very strategic thinking.
+这是一种非常具有战略性的思考。
+
+30
+00:02:17,560 --> 00:02:20,080
+Years and years. What do you want to accomplish with your life?
+多年以来。你想用你的一生实现什么？
+
+31
+00:02:20,080 --> 00:02:27,710
+So if somebody decides, I want to be a world traveler, that's one of the big things I want to see when I'm old and look back at my life.
+所以如果有人决定，我想成为一名环球
+旅行者，那么这将是我年老时回顾人生想
+要看到的重要成就之一。
+
+32
+00:02:27,710 --> 00:02:28,910
+Well, if that's your strategy,
+好吧，如果那是你的策略，
+
+33
+00:02:28,910 --> 00:02:31,310
+then comes the tactical planning.
+接下来是战术规划。
+
+34
+00:02:31,310 --> 00:02:32,870
+Tactical planning is in months,
+战术规划以月为单位。
+
+35
+00:02:32,870 --> 00:02:34,670
+maybe in the next six to 12 months,
+也许在接下来的六到十二个月内，
+
+36
+00:02:34,670 --> 00:02:38,810
+how are you going to help achieve the world traveler goal?
+你打算如何帮助实现世界旅行者的目标
+？
+
+37
+00:02:38,810 --> 00:02:42,530
+So maybe one thing you could do is plan a trip.
+也许你可以做的一件事就是计划一次旅
+行。
+
+38
+00:02:42,530 --> 00:02:46,970
+Maybe every summer I'm going to fly to a different country and visit that country.
+也许每年夏天我都会飞往不同的国家，
+去参观那个国家。
+
+39
+00:02:46,970 --> 00:02:55,530
+So you start making these tactical level goals to go on these trips.
+于是你开始制定这些战术层面的目标，
+以便进行这些旅行。
+
+40
+00:02:55,530 --> 00:02:58,470
+Operationally, that means you're going to have to book a ticket,
+从操作上讲，这意味着你将不得不预订
+一张机票。
+
+41
+00:02:58,470 --> 00:03:04,410
+save money, and have the funding to get the ticket to actually achieve this tactical goal.
+节省资金，并拥有足够的资金来购买实
+现这一战术目标的门票。
+
+42
+00:03:04,410 --> 00:03:08,730
+So the operational goals are the baby steps that lead to the tactical goals.
+因此，运营目标是实现战术目标的第一
+步。
+
+43
+00:03:08,730 --> 00:03:10,950
+And if we can achieve those tactical goals,
+如果我们能够实现这些战术目标，
+
+44
+00:03:10,950 --> 00:03:14,950
+if we travel every summer to a different country, then by the end of our life,
+如果我们每年夏天都去不同的国家旅行
+，那么在我们生命结束时，
+
+45
+00:03:14,950 --> 00:03:18,070
+we'll have achieved our strategic goal where we can look back and say,
+我们将实现我们的战略目标，届时我们
+可以回顾并说，
+
+46
+00:03:18,070 --> 00:03:19,930
+we did it. We were world travelers.
+我们做到了。我们是世界旅行者。
+
+47
+00:03:19,930 --> 00:03:24,130
+But on the operational level, if you don't save the money and you can't afford the ticket,
+但在实际操作层面，如果你不存钱，就
+无法负担机票费用。
+
+48
+00:03:24,130 --> 00:03:26,350
+so you can't go on your summer trip,
+所以你不能去度暑假旅行了，
+
+49
+00:03:26,350 --> 00:03:29,350
+if you fail at the low levels,
+如果你在低级别失败了，
+
+50
+00:03:29,350 --> 00:03:30,670
+you'll fail at the tactical level,
+你将在战术层面失败，
+
+51
+00:03:30,670 --> 00:03:33,010
+which means you'll fail at the strategic level.
+这意味着你将在战略层面失败。
+
+52
+00:03:33,010 --> 00:03:40,190
+So with security governance, we just need to make goals and plan low term,
+因此，在安全治理方面，我们只需要设
+定目标并制定短期计划。
+
+53
+00:03:40,190 --> 00:03:47,160
+medium term, and short term planning to help us achieve those goals that we really want to achieve in the security realm.
+中期和短期规划，帮助我们实现我们真
+正希望在安全领域实现的目标。
