@@ -1,0 +1,639 @@
+1
+00:00:06,700 --> 00:00:13,130
+Let's talk about some global legal issues surrounding intellectual property.
+让我们来谈谈一些围绕知识产权的全球
+法律问题。
+
+2
+00:00:13,980 --> 00:00:16,620
+and licensing that intellectual property.
+以及该知识产权的许可。
+
+3
+00:00:16,620 --> 00:00:21,120
+First of all, what is intellectual property?
+首先，什么是知识产权？
+
+4
+00:00:21,120 --> 00:00:24,720
+Intellectual property is an idea that you own,
+知识产权是你拥有的创意。
+
+5
+00:00:24,720 --> 00:00:29,400
+a concept, a design, a brand that you own.
+一个概念，一个设计，一个你拥有的品
+牌。
+
+6
+00:00:29,400 --> 00:00:35,580
+So let's talk about some of the common intellectual property laws and what they mean and what you need to know about them.
+那么，我们来谈谈一些常见的知识产权
+法律，它们意味着什么，以及你需要了解
+的内容。
+
+7
+00:00:35,580 --> 00:00:46,420
+First of all,a patent. A patent is what you get when you've created some sort of unique invention or a process and you want to protect it so that you own that idea.
+首先，是专利。当你创造了一种独特的
+发明或工艺流程，并且想要保护它，确保
+你拥有这个创意时，你就能获得专利。
+
+8
+00:00:46,420 --> 00:00:49,960
+You submit it to the U.S.Patent Office, for example,
+你将其提交给美国专利局，例如，
+
+9
+00:00:49,960 --> 00:00:54,340
+and if they deem that it is a unique idea that nobody's ever come up with,
+如果他们认为这是一个前所未有的独特
+想法，
+
+10
+00:00:54,340 --> 00:01:00,520
+you can get a patent on that. And anyone who wants to use your invention or your unique idea has to go through you.
+你可以为此申请专利。任何想要使用你
+的发明或独特创意的人都必须通过你。
+
+11
+00:01:02,070 --> 00:01:07,830
+A trademark is protecting your brand.
+商标保护你的品牌。
+
+12
+00:01:07,830 --> 00:01:14,070
+For example, logos or the shape of a Coke bottle is trademarked,
+例如，可口可乐的标志或瓶子的形状都
+是注册商标。
+
+13
+00:01:14,070 --> 00:01:18,030
+or the color brown that UPS uses on their delivery vans,
+或者UPS在其送货车上使用的棕色，
+
+14
+00:01:18,030 --> 00:01:21,990
+that color is trademarked. If you want to start a delivery company,
+那种颜色是注册商标。如果你想创办一
+家快递公司，
+
+15
+00:01:21,990 --> 00:01:24,150
+you can't drive around in big brown vans.
+你不能开着棕色大货车到处跑。
+
+16
+00:01:24,150 --> 00:01:30,310
+If you want to sell soda, you can't sell it in the same shape bottle as Coca-Cola.
+如果你想卖苏打水，就不能用和可口可
+乐一样的瓶形来销售。
+
+17
+00:01:30,310 --> 00:01:32,530
+If you want to open a restaurant,
+如果你想开一家餐厅，
+
+18
+00:01:32,530 --> 00:01:35,710
+you can't have golden arches out in front.
+你不可能在前面挂上金色拱门。
+
+19
+00:01:35,710 --> 00:01:43,150
+McDonald's owns that trademark. So a trademark protects your brand or something that identifies you.
+麦当劳拥有该商标。因此，商标保护的
+是你的品牌或某种能够识别你的东西。
+
+20
+00:01:43,150 --> 00:01:53,030
+A copyright protects artistic works. I think primarily music,
+版权保护艺术作品。我认为主要是音乐
+。
+
+21
+00:01:53,030 --> 00:01:54,830
+books, movies, those get copyrights on them.
+书籍、电影，这些都会获得版权。
+
+22
+00:01:54,830 --> 00:01:56,570
+So if you create an artistic work,
+因此，如果你创作了一件艺术作品，
+
+23
+00:01:56,570 --> 00:02:00,770
+even a photograph, if you take a photograph and you created that photograph,
+即使是一张照片，如果你拍摄了一张照
+片并创造了那张照片，
+
+24
+00:02:00,770 --> 00:02:05,810
+that is your photograph. A copyright protects your artistic works.
+那是你的照片。版权保护你的艺术作品
+。
+
+25
+00:02:05,810 --> 00:02:09,770
+Now it goes beyond that too because if I code some software,
+现在它已经超越了这一点，因为如果我
+编写一些软件，
+
+26
+00:02:09,770 --> 00:02:13,470
+the programming code that I wrote is mine.
+我编写的程序代码是我的。
+
+27
+00:02:13,470 --> 00:02:31,290
+I created that. So a copyright can be protected to protect your artistic works from other people using your photo and making a lot of money off of your work or taking your song and using it in their movie and making a lot of money with the song that you created.
+我创造了这些作品。因此，版权可以保
+护你的艺术作品，防止他人使用你的照片
+并从中牟取暴利，或者盗用你的歌曲并将
+其用于他们的电影中，从而通过你创作的
+歌曲赚取大量利润。
+
+28
+00:02:31,290 --> 00:02:40,870
+So these three property laws, I want to talk a little bit more about timing and protective measures. As far as protective power,
+这三项财产法，我想再详细谈谈时间安
+排和保护措施。至于保护效力，
+
+29
+00:02:40,870 --> 00:02:44,890
+probably they go in order: a patent is the most protected,
+它们可能是按顺序排列的：专利受到最
+严格的保护。
+
+30
+00:02:44,890 --> 00:02:47,110
+followed by trademark, followed by copyright.
+接着是商标，然后是版权。
+
+31
+00:02:47,110 --> 00:02:58,030
+Although copyright laws have been much more fought over in the legal circles since the internet and the ability to share music and movies on the internet,
+尽管自互联网出现以及在网络上分享音
+乐和电影的能力增强以来，版权法在法律
+界引发了更多的争论，
+
+32
+00:02:58,030 --> 00:03:03,000
+copyright laws have had to get a little stricter. But there are some timeframes here,
+版权法不得不变得更加严格一些。但这
+里有一些时间限制，
+
+33
+00:03:03,000 --> 00:03:06,060
+like a patent. It's important to know in the United States,
+就像一项专利。在美国，了解这一点很
+重要。
+
+34
+00:03:06,060 --> 00:03:07,380
+if you get a patent,
+如果你获得了一项专利，
+
+35
+00:03:07,380 --> 00:03:11,160
+you have 20 years where you own that thing.
+你有20年的时间来拥有那件东西。
+
+36
+00:03:11,160 --> 00:03:15,840
+After that 20 years expires,the rest of the country or the rest of the world,
+在那20年之后，其余国家或世界其他地
+方，
+
+37
+00:03:15,840 --> 00:03:19,260
+for that matter, can use your invention.
+就此而言，可以使用你的发明。
+
+38
+00:03:19,260 --> 00:03:23,100
+If you have a copyright on something in the United States,
+如果你在美国拥有某物的版权，
+
+39
+00:03:23,100 --> 00:03:25,320
+that copyright doesn't last forever.
+版权并不是永久有效的。
+
+40
+00:03:25,320 --> 00:03:31,420
+The copyright lasts for 80 years from the death of the author.
+版权自作者去世之日起持续80年。
+
+41
+00:03:31,420 --> 00:03:35,800
+So if you wanted to take a book that someone wrote and make a movie out of it,
+所以，如果你想把某人写的一本书拍成
+电影，
+
+42
+00:03:35,800 --> 00:03:41,380
+you're going to have to go through them to make that happen unless they died over 80 years ago.
+除非他们是在80多年前去世的，否则你
+必须亲自去处理这些事情才能实现目标。
+
+43
+00:03:41,380 --> 00:03:44,680
+So if you want to make a movie about Dracula,
+如果你想拍一部关于德古拉的电影，
+
+44
+00:03:44,680 --> 00:03:47,200
+Bram Stoker died over 80 years ago,
+布拉姆·斯托克在80多年前就去世了。
+
+45
+00:03:47,200 --> 00:03:49,480
+so Dracula is open and free.
+因此，《德古拉》是开放且免费的。
+
+46
+00:03:49,480 --> 00:03:53,300
+You can use that book and that idea all you want.
+你可以随意使用那本书和那个想法。
+
+47
+00:03:53,300 --> 00:03:56,000
+Copyright laws have had to change sometimes over the years.
+版权法多年来有时不得不做出调整。
+
+48
+00:03:56,000 --> 00:03:59,420
+For example, Walt Disney has been dead for a long time now.
+例如，沃尔特·迪士尼早已去世很久了。
+
+49
+00:03:59,420 --> 00:04:03,020
+So is Mickey Mouse available for everyone to use?Well,
+那么米老鼠是每个人都可以使用的吗？
+嗯，
+
+50
+00:04:03,020 --> 00:04:07,220
+the Disney Corporation owns that copyright and they're still alive and well.
+迪士尼公司拥有该版权，而且他们依然
+活跃且经营良好。
+
+51
+00:04:07,220 --> 00:04:10,220
+So there's some interesting things around there.
+所以那里有一些有趣的东西。
+
+52
+00:04:10,220 --> 00:04:19,140
+In Britain, they changed the copyright laws because it was 50 years to protect copyrights. But then artists like the Beatles and the Rolling Stones,
+在英国，他们修改了版权法，因为原本
+版权保护期是50年。但随后像披头士乐队
+和滚石乐队这样的艺术家，
+
+53
+00:04:19,140 --> 00:04:20,579
+you know, they're still alive.
+你知道，他们还活着。
+
+54
+00:04:20,579 --> 00:04:22,019
+They've been around for over 50 years,
+他们已经存在了50多年。
+
+55
+00:04:22,019 --> 00:04:23,580
+but that's still their music.
+但那仍然是他们的音乐。
+
+56
+00:04:23,580 --> 00:04:26,820
+So copyright laws protect your artistic works.
+因此，版权法保护你的艺术作品。
+
+57
+00:04:26,820 --> 00:04:35,100
+At the end of a sporting broadcast, sometimes you'll hear any reuse or transmission is protected by such and such a sporting organization.
+在体育节目的结尾，有时你会听到“任何
+形式的重复使用或传播均受某某体育组织
+的保护”这样的声明。
+
+58
+00:04:35,100 --> 00:04:39,420
+So copyright laws expire, patents expire,trademarks,
+因此，版权法会过期，专利会过期，商
+标也会过期。
+
+59
+00:04:39,420 --> 00:04:42,400
+they all have some sort of expiration. on them.
+它们都有某种保质期。
+
+60
+00:04:42,400 --> 00:04:47,890
+So what if you wanted to protect your secret recipe for your barbecue sauce?
+那么，如果你想保护你的烧烤酱秘方呢
+？
+
+61
+00:04:48,810 --> 00:04:50,610
+Well, if you protected that with a patent,
+那么，如果你用专利来保护它，
+
+62
+00:04:50,610 --> 00:04:53,430
+you would have to submit your recipe to the US Patent Office.
+你必须将你的食谱提交给美国专利局。
+
+63
+00:04:53,430 --> 00:04:55,050
+They might issue you a patent,
+他们可能会给你颁发专利。
+
+64
+00:04:55,050 --> 00:04:58,770
+but 20 years later, anyone can use your recipe.
+但20年后，任何人都可以使用你的食谱
+。
+
+65
+00:04:58,770 --> 00:05:02,310
+So do you think Coca-Cola has a patent on their recipe?
+那么你认为可口可乐对他们的配方拥有
+专利吗？
+
+66
+00:05:02,310 --> 00:05:04,290
+Well,they've been making money for a lot more than 20 years.
+嗯，他们赚钱的时间远不止20年。
+
+67
+00:05:04,290 --> 00:05:09,210
+They don't want everyone to know their recipe and be able to use it in 20 years.
+他们不想让每个人都知道他们的配方，
+并在20年后还能使用它。
+
+68
+00:05:09,210 --> 00:05:13,110
+So if you want to protect something for longer than these timeframes,
+因此，如果你想保护某些东西的时间超
+过这些时间范围，
+
+69
+00:05:13,110 --> 00:05:16,090
+you might want to call it a trade secret.
+你或许想称它为商业机密。
+
+70
+00:05:16,090 --> 00:05:20,650
+There are some federal laws protecting things you label as a trade secret,
+有一些联邦法律保护你标记为商业机密
+的事物。
+
+71
+00:05:20,650 --> 00:05:24,190
+like it's a federal crime to hack someone's trade secrets.
+就像黑客攻击他人的商业机密是联邦犯
+罪一样。
+
+72
+00:05:24,190 --> 00:05:27,670
+But a trade secret, you don't submit it to the patent office,
+但商业机密，你不会提交给专利局。
+
+73
+00:05:27,670 --> 00:05:30,790
+you don't try to register it with a copyright or a trademark,
+你没有尝试通过版权或商标进行注册，
+
+74
+00:05:30,790 --> 00:05:36,490
+you protect it yourself. You protect it kind of like the government's version of top secret.
+你自己保护它。你保护它的方式有点像
+政府对绝密信息的保护。
+
+75
+00:05:36,490 --> 00:05:41,090
+You protect that and make sure nobody gets their eyes or hands on your stuff,
+你保护好它，确保没人能接触到你的东
+西。
+
+76
+00:05:41,090 --> 00:05:46,310
+your idea, and then that way you don't have a time limit.
+你的想法，这样你就不会有时间限制了
+。
+
+77
+00:05:46,310 --> 00:05:51,770
+Coca-Cola doesn't have to worry about something expiring and their recipe being known.
+可口可乐不必担心产品过期，也不必担
+心他们的配方被泄露。
+
+78
+00:05:51,770 --> 00:05:59,680
+There's an interesting story. There was an old ledger book from a drug store that sold at auction for a lot of money.
+有一个有趣的故事。有一本来自一家药
+店的旧账本，在拍卖会上以高价售出。
+
+79
+00:05:59,970 --> 00:06:09,810
+Why? Because that ledger book supposedly had Dr.Pepper's recipe for the Dr.Pepper beverage.
+为什么？因为据说那本账簿里记载着胡
+椒博士饮料的配方。
+
+80
+00:06:09,810 --> 00:06:13,830
+Now,the owner, the current manufacturers of Dr.Pepper,
+现在，Dr. Pepper的所有者，也就是目
+前的制造商，
+
+81
+00:06:13,830 --> 00:06:16,170
+said,oh,well, that's not the recipe we use anymore.
+说，哦，好吧，这不是我们用的配方了
+。
+
+82
+00:06:16,170 --> 00:06:20,730
+But guess what? If somebody gets their hands on your trade secret,
+但猜猜看？如果有人掌握了你的商业机
+密，
+
+83
+00:06:20,730 --> 00:06:31,390
+there's no official registry that says it was a trade secret. But there are some federal laws that you can prosecute the people who stole your trade secrets.
+没有官方的登记机构证明它是一项商业
+机密。但有一些联邦法律可以让你起诉那
+些窃取你商业机密的人。
+
+84
+00:06:31,390 --> 00:06:38,410
+And by the way, as far as international agreements go,
+顺便提一下，就国际协议而言，
+
+85
+00:06:38,410 --> 00:06:45,820
+if you have a patent or a trademark or a copyright in the United States, China doesn't have to obey those laws.
+如果你在美国拥有专利、商标或版权，
+中国不必遵守这些法律。
+
+86
+00:06:45,820 --> 00:06:47,380
+Poland doesn't have to obey those laws.
+波兰不必遵守这些法律。
+
+87
+00:06:47,380 --> 00:06:49,900
+The Netherlands doesn't have to obey those laws.
+荷兰不必遵守这些法律。
+
+88
+00:06:49,900 --> 00:06:54,820
+But there is some international agreement on these where we kind of help each other enforce those.
+但国际上对这些方面有一些共识，我们
+彼此帮助来执行这些规定。
+
+89
+00:06:54,820 --> 00:07:01,060
+Patents are probably one of the reasons those are most protected because not every country participates,
+专利可能是这些技术受到最严格保护的
+原因之一，因为并非所有国家都参与其中
+。
+
+90
+00:07:01,060 --> 00:07:05,380
+but allies and friend countries, we all kind of protect each other's stuff.
+但盟友和友好国家之间，我们都会互相
+保护彼此的东西。
+
+91
+00:07:05,380 --> 00:07:09,560
+All right, now an intellectual property and idea a concept,
+好的，现在谈谈知识产权、创意和概念
+。
+
+92
+00:07:09,560 --> 00:07:14,420
+a design that you own, a process that you've created and you own,
+你拥有的一个设计，一个你创造并拥有
+的过程，
+
+93
+00:07:14,420 --> 00:07:23,840
+you can use it yourself or you can license it out and let other people use your idea or use your music or use your software.
+你可以自己使用它，也可以将其授权给
+他人，让他们使用你的创意、音乐或软件
+。
+
+94
+00:07:23,840 --> 00:07:27,560
+Like when you purchase software, you're not purchasing the software,
+就像你购买软件时，你并不是在购买软
+件本身，
+
+95
+00:07:27,560 --> 00:07:31,220
+you're purchasing a license to use that software.
+你正在购买使用该软件的许可证。
+
+96
+00:07:31,220 --> 00:07:38,700
+Or if you have a patent on something, no one else can make your invention unless you license it out to them.
+或者，如果你拥有某项发明的专利，除
+非你授权他人使用，否则其他人不能制造
+你的发明。
+
+97
+00:07:38,700 --> 00:07:44,020
+So there are lots of business minds If you've ever watched Shark Tank,
+如果你看过《创智赢家》（Shark Tank
+），你就会发现那里有很多商业头脑。
+
+98
+00:07:44,020 --> 00:07:47,860
+where people come to the rich investors with their ideas,
+人们带着他们的想法来到富有的投资者
+面前，
+
+99
+00:07:47,860 --> 00:07:54,940
+sharks will usually invest only in ideas that are already making a lot of money or ideas where they have a patent on it.
+鲨鱼通常只投资那些已经赚了很多钱的
+想法，或者他们拥有专利权的创意。
+
+100
+00:07:54,940 --> 00:07:56,380
+Because if you own a patent,
+因为如果你拥有一项专利，
+
+101
+00:07:56,380 --> 00:07:58,840
+you control that and you don't even have to make it.
+你掌控着这一切，甚至不需要亲自去做
+。
+
+102
+00:07:58,840 --> 00:08:00,280
+If you invent some widget,
+如果你发明了某种小工具，
+
+103
+00:08:00,280 --> 00:08:01,780
+you don't have to build the widget yourself.
+你不需要自己制作这个小部件。
+
+104
+00:08:01,780 --> 00:08:07,040
+You can license that to other people and then you can make money just off the licensing.
+你可以将这项技术授权给其他人，然后
+仅通过授权就能赚钱。
+
+105
+00:08:07,040 --> 00:08:13,700
+Licensing is how you allow other people to use your intellectual property that you have control of.
+许可授权是允许他人使用你拥有控制权
+的知识产权的方式。
+
+106
+00:08:13,700 --> 00:08:18,440
+So make sure for the exam, you have a pretty good handle on what a patent is.
+因此，为了考试，你必须对什么是专利
+有一个相当好的理解。
+
+107
+00:08:18,440 --> 00:08:19,520
+Usually, that's a unique invention,
+通常来说，这是一种独特的发明。
+
+108
+00:08:19,520 --> 00:08:22,700
+a process, a unique idea that you now own.
+一个过程，一个你现在拥有的独特想法
+。
+
+109
+00:08:22,700 --> 00:08:29,060
+A trademark protects your brand. Think about logos,
+商标保护你的品牌。想想那些标志，
+
+110
+00:08:29,060 --> 00:08:31,340
+colors, catchphrases, things that identify your brand.
+颜色、口号、能够识别你品牌的事物。
+
+111
+00:08:31,340 --> 00:08:36,900
+And then copyright. It protects mostly artistic works,
+然后是版权。它主要保护艺术作品，
+
+112
+00:08:36,900 --> 00:08:37,980
+music, books, movies,things like that.
+音乐、书籍、电影，诸如此类的东西。
+
+113
+00:08:37,980 --> 00:08:40,909
+Make sure you have those three down and you'll be good to go.
+确保你掌握了这三项，你就可以顺利开
+始了。
