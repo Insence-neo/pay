@@ -1,0 +1,846 @@
+1
+00:00:06,490 --> 00:00:15,550
+In the previous topics, we discussed hiring personnel and policies during employment.
+在前面的主题中，我们讨论了招聘人员
+和雇佣期间的政策。
+
+2
+00:00:15,550 --> 00:00:21,670
+Now the unfortunate time comes when we might have to terminate employment.
+现在，不幸的时刻来临了，我们可能不
+得不终止雇佣关系。
+
+3
+00:00:21,670 --> 00:00:25,870
+It's unfortunate, but for security reasons,
+这很不幸，但出于安全原因，
+
+4
+00:00:25,870 --> 00:00:34,530
+the person being terminated is usually the last one to know. It's usually a blindside kind of thing.
+被解雇的人通常是最后一个知道的。这
+通常是一种出其不意的事情。
+
+5
+00:00:34,530 --> 00:00:38,910
+But if you do not do it that way, if you telegraph your employee,
+但如果你不那样做，如果你通过电报通
+知你的员工，
+
+6
+00:00:38,910 --> 00:00:42,630
+you're probably going to get fired in a week or two.
+你大概一两个星期内就会被解雇。
+
+7
+00:00:42,630 --> 00:00:50,670
+What is that employee going to do during that last week or two when they work for you to get revenge or to cause problems?
+那名员工在最后一周或两周里，当你雇
+佣他们时，会做些什么来报复或制造麻烦
+呢？
+
+8
+00:00:50,670 --> 00:00:53,790
+So there are times when the termination is friendly.
+因此，有时解雇是友好的。
+
+9
+00:00:53,790 --> 00:00:56,350
+Let's say an employee gets an other job somewhere.
+假设一名员工在别处找到了另一份工作
+。
+
+10
+00:00:56,350 --> 00:00:59,230
+They're happy, they're moving along,
+他们很快乐，他们正在前进。
+
+11
+00:00:59,230 --> 00:01:03,130
+everyone's happy for them. During a friendly termination,
+每个人都为他们感到高兴。在友好分手
+期间，
+
+12
+00:01:03,130 --> 00:01:05,950
+we don't have to worry quite as much about the security,
+我们不必太担心安全问题，
+
+13
+00:01:05,950 --> 00:01:07,870
+but there are still security issues.
+但仍然存在安全问题。
+
+14
+00:01:07,870 --> 00:01:12,730
+What if this person is moving to another company and they're going to take some of our stuff with them,
+如果这个人要转到另一家公司，并且他
+们打算带走我们的一些东西，会怎样呢？
+
+15
+00:01:12,730 --> 00:01:16,510
+some of our client base or something like that?
+我们的一些客户群或者类似的东西？
+
+16
+00:01:16,510 --> 00:01:22,490
+Unfriendly terminations, we clearly need to consider security. situations.
+不友好的终止，我们显然需要考虑安全
+问题。
+
+17
+00:01:22,490 --> 00:01:24,770
+Make sure that in an unfriendly termination,
+确保在不友好的终止情况下，
+
+18
+00:01:26,100 --> 00:01:30,480
+we consider what access this person has.
+我们考虑这个人拥有什么权限。
+
+19
+00:01:30,480 --> 00:01:32,880
+The access they have, the keys they've been given,
+他们所拥有的访问权限，以及他们被给
+予的钥匙，
+
+20
+00:01:32,880 --> 00:01:38,100
+the company equipment they might have access to or control over,
+他们可能接触或控制的公司设备，
+
+21
+00:01:38,100 --> 00:01:40,500
+passwords and files they might have.
+密码和他们可能拥有的文件。
+
+22
+00:01:40,500 --> 00:01:42,480
+In an unfriendly termination situation,
+在不友好的解雇情况下，
+
+23
+00:01:42,480 --> 00:01:45,240
+we need to take further steps to protect ourselves.
+我们需要采取进一步措施来保护自己。
+
+24
+00:01:45,240 --> 00:01:48,180
+In both situations, the keys should be removed from them,
+在这两种情况下，钥匙都应从它们身上
+取下。
+
+25
+00:01:48,180 --> 00:01:53,320
+their accounts should be disabled, their company equipment should be recaptured.
+他们的账户应被禁用，公司设备应被收
+回。
+
+26
+00:01:53,320 --> 00:01:58,420
+In an unfriendly termination, you might have to escort them out of the building or off the premises.
+在不友好的解雇情况下，你可能需要护
+送他们离开大楼或场所。
+
+27
+00:01:58,420 --> 00:02:03,880
+In an unfriendly termination, usually they get to work and they can't log in,
+在不友好的解雇情况下，通常他们到达
+工作岗位后却无法登录。
+
+28
+00:02:03,880 --> 00:02:05,140
+and everyone says, I don't know,
+每个人都这么说，我不知道，
+
+29
+00:02:05,140 --> 00:02:07,540
+go talk to the manager, and that's when they find out,
+去跟经理谈谈，就在那时他们发现了，
+
+30
+00:02:07,540 --> 00:02:13,660
+yeah, you've been terminated. And then if there is some disgruntled feelings that the employee has,
+是的，你已经被解雇了。如果员工因此
+产生一些不满情绪，
+
+31
+00:02:13,660 --> 00:02:17,360
+we need to protect ourselves against that. In an unfriendly termination,
+我们需要保护自己免受这种情况的影响
+。在不友好的解雇中，
+
+32
+00:02:17,360 --> 00:02:22,340
+we might need to go change some passwords that they may have had access to.
+我们可能需要去更改一些他们可能已经
+获取访问权限的密码。
+
+33
+00:02:22,340 --> 00:02:30,860
+We need to take further steps to make sure that we protect ourselves against that possible repercussion that might come.
+我们需要采取进一步措施，以确保我们
+能够防范可能出现的后果。
+
+34
+00:02:30,860 --> 00:02:33,440
+So in again, in unfriendly terminations,
+于是再次进入，在不友好的终止中，
+
+35
+00:02:33,440 --> 00:02:38,470
+we just need to amp it up even more. This doesn't always happen.
+我们只需要再加大力度。这并不总是会
+发生。
+
+36
+00:02:38,470 --> 00:02:45,630
+I taught at the University of New Mexico for a while when I was a graduate student. I had keys to the building,
+我在新墨西哥大学读研究生时曾在那里
+教过一段时间书。我有那栋楼的钥匙。
+
+37
+00:02:45,630 --> 00:02:49,290
+keys to my classroom, and keys to the office.
+教室的钥匙，办公室的钥匙。
+
+38
+00:02:49,290 --> 00:02:55,890
+Years later, my wife and I were cleaning out some old junk drawer and noticed all these old keys.
+多年后，我和妻子在清理一个旧杂物抽
+屉时，发现了这些旧钥匙。
+
+39
+00:02:55,890 --> 00:02:57,570
+Where did these come from?
+这些是从哪里来的？
+
+40
+00:02:57,570 --> 00:03:03,060
+I recognized one of these keys actually belonged to the building at the university.
+我认出其中一把钥匙实际上属于大学里
+的那栋楼。
+
+41
+00:03:03,470 --> 00:03:07,190
+When I left, I never returned that key to them.
+当我离开时，我从未把那把钥匙还给他
+们。
+
+42
+00:03:07,190 --> 00:03:09,050
+What are the odds? What do you think?
+几率有多大？你怎么看？
+
+43
+00:03:09,050 --> 00:03:12,110
+What are the odds that the building was rekeyed,
+这栋楼被重新换锁的几率有多大？
+
+44
+00:03:12,110 --> 00:03:16,850
+that they changed the locks because Tom has a key and he doesn't work here anymore?
+他们换锁是因为汤姆有一把钥匙，而他
+现在已经不在这里工作了？
+
+45
+00:03:16,850 --> 00:03:21,650
+I'm guessing the likelihood was pretty low that they rekeyed those doors,
+我猜他们重新更换门锁的可能性应该很
+低。
+
+46
+00:03:21,650 --> 00:03:23,510
+but we need to consider those kinds of things.
+但我们需要考虑这类事情。
+
+47
+00:03:23,510 --> 00:03:29,910
+Could I still use that key maybe today and go 20 years later back and unlock that same door?
+我是否仍然可以使用那把钥匙，也许今
+天使用它，20年后还能回到过去，打开那
+扇门？
+
+48
+00:03:29,910 --> 00:03:33,570
+That would be an issue we need to make sure that when people leave,
+那将是一个我们需要确保的问题，即当
+人们离开时，
+
+49
+00:03:33,570 --> 00:03:36,870
+friendly or unfriendly, we remove their access,
+无论友好与否，我们都会取消他们的访
+问权限。
+
+50
+00:03:36,870 --> 00:03:45,090
+recover company equipment, and protect ourselves from potential security issues.
+回收公司设备，并保护自己免受潜在的
+安全问题。
+
+51
+00:03:45,090 --> 00:03:48,390
+So not every employee is a full-time hired employee.
+因此，并非每位员工都是全职雇佣的员
+工。
+
+52
+00:03:48,390 --> 00:03:59,300
+We also interact with vendors, consultants,and contractors quite often. We work with people who get access to our database or facilities.
+我们还经常与供应商、顾问和承包商进
+行互动。我们与那些能够访问我们数据库
+或设施的人员合作。
+
+53
+00:03:59,300 --> 00:04:07,100
+For example, you hire a cleaning company to clean the building instead of your own employees.
+例如，你聘请一家清洁公司来打扫大楼
+，而不是使用自己的员工。
+
+54
+00:04:07,100 --> 00:04:09,920
+Some cleaning vendor comes in and does that for us.
+一些清洁服务公司会进来为我们做这些
+工作。
+
+55
+00:04:09,920 --> 00:04:12,380
+We're giving them keys to the building,
+我们给他们大楼的钥匙，
+
+56
+00:04:12,380 --> 00:04:16,519
+access to our facilities, and maybe data.
+访问我们的设施，甚至可能是数据。
+
+57
+00:04:16,519 --> 00:04:19,800
+We need to consider the access that vendors,
+我们需要考虑供应商的访问权限，
+
+58
+00:04:19,800 --> 00:04:28,080
+consultants, and contractors might have and make sure we pay attention to the security needs in those areas as well.
+顾问和承包商可能会涉及这些领域，我
+们也要确保关注这些领域的安全需求。
+
+59
+00:04:28,080 --> 00:04:37,680
+When I go and teach on site, I've taught at facilities like Los Alamos National Laboratories and other high-security government facilities.
+当我亲自去现场授课时，我曾在洛斯阿
+拉莫斯国家实验室和其他高安全级别的政
+府设施等场所进行教学。
+
+60
+00:04:37,680 --> 00:04:45,760
+I've taught at headquarters of banks, headquarters of major companies traded on the stock market, worth billions.
+我曾在银行总部、在股市上市的大型公
+司总部授课，这些公司的市值达数十亿美
+元。
+
+61
+00:04:45,760 --> 00:04:51,820
+I've taught at lots of places where there's definitely some security going on.
+我在很多地方教过书，那些地方肯定存
+在一些安全措施。
+
+62
+00:04:51,820 --> 00:04:57,760
+So whenever somebody has access to a site or gets,you know,
+因此，每当有人访问某个网站或获得某
+种信息时，你知道，
+
+63
+00:04:57,760 --> 00:05:00,640
+when I went to Los Alamos National Laboratories,
+当我前往洛斯阿拉莫斯国家实验室时，
+
+64
+00:05:00,640 --> 00:05:08,140
+they actually scanned my hand and I was able to use my hand print to get into a facility so I could teach in the room in there.
+他们实际上扫描了我的手，我可以使用
+我的掌纹进入一个设施，从而在那里教课
+。
+
+65
+00:05:08,140 --> 00:05:10,340
+So these vendors and consultants and contractors,
+这些供应商、顾问和承包商，
+
+66
+00:05:10,340 --> 00:05:12,260
+they may not work there every day,
+他们可能不是每天都在那里工作，
+
+67
+00:05:12,260 --> 00:05:15,740
+but they have access to certain areas.
+但他们可以进入某些区域。
+
+68
+00:05:15,740 --> 00:05:18,740
+When I access these high secure areas,
+当我进入这些高度安全区域时，
+
+69
+00:05:18,740 --> 00:05:25,160
+most of the places that did it right wouldn't allow me to just wander around the facility unescorted.
+大多数做得好的地方都不允许我独自在
+设施内随意走动。
+
+70
+00:05:25,160 --> 00:05:32,040
+Make sure you have an escort with these visitors so that we just make sure that they're staying in their lane and doing the things they need to do.
+确保这些访客有陪同人员，这样我们才
+能确保他们遵守规定，完成他们需要做的
+事情。
+
+71
+00:05:33,230 --> 00:05:36,650
+When I worked for the United States Air Force as a contractor,
+当我在美国空军担任承包商工作时，
+
+72
+00:05:36,650 --> 00:05:38,990
+I went to work there every day.
+我每天都在那里工作。
+
+73
+00:05:38,990 --> 00:05:41,630
+So I had an office,
+所以我有一间办公室，
+
+74
+00:05:41,630 --> 00:05:45,230
+I had a card and access to my area,
+我有一张卡片，并且可以进入我的区域
+。
+
+75
+00:05:45,230 --> 00:05:48,650
+and I worked there basically as a full-time employee.
+我基本上是在那里担任全职员工。
+
+76
+00:05:48,650 --> 00:05:55,550
+So this is more permanent. I had administrative privileges to certain servers that we were managing.
+所以这是更永久性的。我拥有对我们管
+理的某些服务器的管理权限。
+
+77
+00:05:55,550 --> 00:06:00,570
+So consultants and contractors,they might be around a while. They might need more permanent access.
+因此，顾问和承包商可能会在这里待上
+一段时间。他们可能需要更长期的访问权
+限。
+
+78
+00:06:00,570 --> 00:06:05,130
+So I did not have an escort all the time when I was a contractor for the United States Air Force,
+因此，当我作为美国空军承包商时，我
+并不是一直都有护送人员。
+
+79
+00:06:05,130 --> 00:06:11,730
+but the Air Force definitely did a background investigation on me.
+但空军确实对我进行了背景调查。
+
+80
+00:06:11,730 --> 00:06:17,730
+One of my former coworkers must have gotten a job with top secret clearance somewhere,
+我的一位前同事一定是在某个地方得到
+了一份需要最高机密权限的工作。
+
+81
+00:06:17,730 --> 00:06:23,230
+or they were considering him because I had moved away from New Mexico and the government
+或者他们之所以考虑他，是因为我已经
+搬离了新墨西哥州，并且政府……
+
+82
+00:06:23,230 --> 00:06:27,730
+tracked me down and somebody came to my door, knocked on my door,
+他们追踪到了我，有人来到我家门口，
+敲了敲门。
+
+83
+00:06:27,730 --> 00:06:29,890
+and said, Oh, I work for the U.S.government.
+然后说：“哦，我为美国政府工作。”
+
+84
+00:06:29,890 --> 00:06:32,170
+We understand you know this person.
+我们知道你认识这个人。
+
+85
+00:06:32,170 --> 00:06:33,970
+I said, Yes, I do.
+我说，是的，我愿意。
+
+86
+00:06:33,970 --> 00:06:36,130
+They said, Okay, here is some paperwork.
+他们说：“好的，这里有一些文件。”
+
+87
+00:06:36,130 --> 00:06:37,750
+We'd like you to fill out about this person.
+我们希望你能填写关于这个人的资料。
+
+88
+00:06:37,750 --> 00:06:40,270
+Would you be willing to do that? I said,
+你愿意这么做吗？我说，
+
+89
+00:06:40,270 --> 00:06:42,070
+Sure, and so I filled out this paperwork,
+当然，于是我填写了这些文件，
+
+90
+00:06:42,070 --> 00:06:46,030
+telling my work history with this person and any issues they may have had,
+讲述我与这个人的工作经历以及他们可
+能遇到的问题，
+
+91
+00:06:46,030 --> 00:06:47,890
+and I submitted that to the U.
+我把这个提交给了美国。
+
+92
+00:06:47,890 --> 00:06:52,070
+S.government.That was an extended background investigation.
+美国政府。那是一次深入的背景调查。
+
+93
+00:06:52,070 --> 00:06:57,680
+Unfortunately, this person I know, he had done a couple of shady things.
+不幸的是，我认识的这个人，他做过一
+些不正当的事情。
+
+94
+00:06:57,680 --> 00:07:01,760
+In fact, when he left the organization I worked with him at,
+事实上，当他离开我曾与他共事的组织
+时，
+
+95
+00:07:01,760 --> 00:07:05,840
+he submitted a two-week notice and did nothing the last two weeks.
+他提交了两周的辞职通知，并且在过去
+两周里什么都没做。
+
+96
+00:07:05,840 --> 00:07:10,400
+I asked him, are you sure you want to be so blatant about it?
+我问他，你确定你想这么明目张胆吗？
+
+97
+00:07:10,400 --> 00:07:12,440
+You might not want to burn your bridges.
+你可能不想烧断自己的退路。
+
+98
+00:07:12,440 --> 00:07:14,660
+He said, no, I don't want to burn my bridges.
+他说，不，我不想断了自己的后路。
+
+99
+00:07:14,660 --> 00:07:17,900
+I'd like to blow them up, is what he said.So at any rate,
+他说他想炸掉他们。不管怎样，
+
+100
+00:07:17,900 --> 00:07:21,480
+when the government comes and asks me about this guy, in his past,
+当政府来问我关于这家伙的事，以及他
+的过去时，
+
+101
+00:07:21,480 --> 00:07:26,340
+I was honest. I don't know if that caused problems for him,
+我很诚实。我不知道这是否给他带来了
+麻烦。
+
+102
+00:07:26,340 --> 00:07:28,260
+but at least some sort of background investigation,
+但至少要进行某种背景调查，
+
+103
+00:07:28,260 --> 00:07:31,680
+if you're going to give people permanent access to a facility,
+如果你打算让人们永久性地进入某个设
+施，
+
+104
+00:07:31,680 --> 00:07:40,080
+regardless of the duration, whether it's just some instructor coming to teach for a week or whether it's a contractor that's going to essentially be a full-time employee,
+无论时间长短，无论是某位讲师来教一
+周，还是承包商最终成为全职员工，
+
+105
+00:07:40,080 --> 00:07:43,260
+regardless of the duration, we need to keep an eye on them.
+无论时间长短，我们都需要密切关注它
+们。
+
+106
+00:07:43,260 --> 00:07:47,860
+So logging and monitoring all of your employees should be logging and monitoring them,
+因此，对所有员工进行日志记录和监控
+，就是对他们进行日志记录和监控。
+
+107
+00:07:47,860 --> 00:07:55,120
+but particular attention to those people who may not be your employees technically.
+但要特别关注那些在技术上可能不是你
+的员工的人。
+
+108
+00:07:55,120 --> 00:07:57,640
+When I go and teach at certain organizations,
+当我前往某些组织进行教学时，
+
+109
+00:07:57,640 --> 00:08:02,440
+I sign non-disclosure agreements because I'll teach them on their servers,
+我签署保密协议是因为我会在他们的服
+务器上教学。
+
+110
+00:08:02,440 --> 00:08:07,960
+on their situation. And so I might come in contact with corporate information that is confidential.
+关于他们的处境。因此，我可能会接触
+到一些机密的企业信息。
+
+111
+00:08:07,960 --> 00:08:14,900
+So quite often I sign non-disclosure agreements. before I can go in and teach on your servers at your facility,
+因此，我经常签署保密协议。在我进入
+贵公司设施并在您的服务器上进行教学之
+前，
+
+112
+00:08:14,900 --> 00:08:17,780
+for example. When I arrive,
+例如。当我到达时，
+
+113
+00:08:17,780 --> 00:08:20,360
+they want to make sure that I am who I claim to be.
+他们想确认我就是我声称的那个人。
+
+114
+00:08:20,360 --> 00:08:22,820
+Some organizations do this better than others.
+有些组织在这方面做得比其他组织更好
+。
+
+115
+00:08:22,820 --> 00:08:27,140
+I have taught at facilities where I just go up to some random person and say,
+我曾在一些机构任教，在那里我只是随
+便找个人说：
+
+116
+00:08:27,140 --> 00:08:29,660
+hey, I'm an instructor, I'm supposed to teach in this room,
+嘿，我是讲师，我应该在这个教室上课
+。
+
+117
+00:08:29,660 --> 00:08:34,220
+and they just let me in without even knowing if I'm telling the truth or not.
+他们甚至不知道我说的是不是真的，就
+让我进去了。
+
+118
+00:08:34,220 --> 00:08:37,700
+So checking an ID, having them sign in,
+因此，检查身份证件，让他们签到，
+
+119
+00:08:37,700 --> 00:08:44,580
+checking their ID, making sure that we know this is really the right person. with the right contact that they're supposed to have.
+检查他们的身份证件，确保我们确认这
+确实是正确的人，并且他们拥有应有的联
+系方式。
+
+120
+00:08:44,580 --> 00:08:49,460
+And the final concept we want to talk about with personnel security is privacy.
+我们想要讨论的最后一个与人员安全相
+关的概念是隐私。
+
+121
+00:08:51,030 --> 00:08:59,970
+Privacy laws and privacy regulations have been amplified in the last decade or so.
+在过去十年左右的时间里，隐私法律和
+隐私法规得到了加强。
+
+122
+00:08:59,970 --> 00:09:06,510
+It all revolves around computer data storing my private information on your computer.
+这一切都围绕着计算机数据，将我的私
+人信息存储在你的电脑上。
+
+123
+00:09:06,510 --> 00:09:15,030
+Now you store private information about your employees and your customers and maybe even your vendors and contractors and such.
+现在你存储着员工、客户，甚至供应商
+和承包商等人的私人信息。
+
+124
+00:09:15,030 --> 00:09:18,490
+When I worked for the United States government as a contractor,
+当我作为承包商为美国政府工作时，
+
+125
+00:09:18,490 --> 00:09:20,890
+they had me in their list.
+他们把我列入了名单。
+
+126
+00:09:20,890 --> 00:09:25,210
+They got hacked. The Office of Personnel Management of the U.S.government got hacked.
+他们被黑客攻击了。美国政府人事管理
+办公室遭到了黑客攻击。
+
+127
+00:09:25,210 --> 00:09:28,270
+My private information got hacked.
+我的私人信息被黑客攻击了。
+
+128
+00:09:28,270 --> 00:09:35,230
+And so the government had to deal with the fact that all of these employees' private information was hacked.
+因此，政府不得不面对这些员工私人信
+息被黑客入侵的事实。
+
+129
+00:09:35,230 --> 00:09:41,030
+So what we need to do is have a privacy policy that clearly states what we
+因此，我们需要制定一份隐私政策，明
+确说明我们……
+
+130
+00:09:41,030 --> 00:09:42,950
+collect, how we collect it,
+收集，我们如何收集它，
+
+131
+00:09:42,950 --> 00:09:45,350
+how we process it, what we do with it.
+我们如何处理它，我们拿它做什么。
+
+132
+00:09:45,350 --> 00:09:52,130
+Make sure that you communicate that privacy policy,especially to your customers.
+确保你传达了隐私政策，特别是向你的
+客户传达。
+
+133
+00:09:52,130 --> 00:09:57,890
+Search engines and websites track more than you can imagine about us.
+搜索引擎和网站追踪的关于我们的信息
+比你想象的要多得多。
+
+134
+00:09:57,890 --> 00:10:07,130
+They know us better than we know ourselves sometimes. And that is all okay because we agree to it.
+有时候，他们了解我们比我们自己还要
+清楚。而这一切都是可以的，因为我们同
+意这样。
+
+135
+00:10:07,130 --> 00:10:13,370
+So some people actually do read those privacy policies instead of just clicking I agree and okay,
+所以有些人确实会阅读那些隐私政策，
+而不仅仅是点击“我同意”和“确定”。
+
+136
+00:10:13,370 --> 00:10:16,550
+right? So just make sure that you communicate clearly.
+对吧？所以只要确保你沟通清楚。
+
+137
+00:10:16,550 --> 00:10:20,450
+Here's our privacy policy. One thing I'll mention,
+这是我们的隐私政策。我想提一下，
+
+138
+00:10:20,450 --> 00:10:22,500
+can you spy on your own employees?
+你能监视自己的员工吗？
+
+139
+00:10:23,640 --> 00:10:26,220
+They're on your equipment, in your facilities,
+他们就在你的设备上，在你的设施里，
+
+140
+00:10:26,220 --> 00:10:30,180
+working on your stuff. Can you spy on your own employees?
+在处理你的事务。你能监视自己的员工
+吗？
+
+141
+00:10:30,180 --> 00:10:34,620
+And the answer to that is really no. But wait a minute,
+而答案其实是否定的。但等一下，
+
+142
+00:10:34,620 --> 00:10:37,740
+can you monitor your employees?
+你能监控你的员工吗？
+
+143
+00:10:37,740 --> 00:10:43,140
+Yes, totally, you should. So isn't that an invasion of their privacy?
+是的，当然应该这么做。那这难道不是
+侵犯他们的隐私吗？
+
+144
+00:10:43,140 --> 00:10:48,170
+Well,if you communicate, hey, we monitor you, that's not spying anymore.
+好吧，如果你进行沟通，嘿，我们监控
+你，那就不算间谍活动了。
+
+145
+00:10:48,170 --> 00:10:51,110
+Spying means they don't know you're doing it.
+间谍活动意味着他们不知道你在做这件
+事。
+
+146
+00:10:51,110 --> 00:10:57,050
+Monitoring is with consent, and it doesn't even have to be consent,
+监控是在获得同意的情况下进行的，甚
+至不需要获得同意。
+
+147
+00:10:57,050 --> 00:10:59,750
+but you have to inform them that it's happening.
+但你必须告诉他们这件事正在发生。
+
+148
+00:10:59,750 --> 00:11:01,730
+So communicating your privacy policy,
+因此，传达您的隐私政策，
+
+149
+00:11:01,730 --> 00:11:06,110
+letting people know we do watch this stuff and we do track your web browsing,
+让人们知道我们确实会关注这些内容，
+并且会追踪你的网络浏览记录。
+
+150
+00:11:06,110 --> 00:11:16,830
+we do this stuff. Make sure that you communicate those key privacy elements to make sure that everybody understands how you treat personnel privacy.
+我们做这些事情。确保你传达这些关键
+的隐私要素，以确保每个人都理解你如何
+处理人员隐私。
