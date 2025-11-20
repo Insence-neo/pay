@@ -1,0 +1,234 @@
+1
+00:00:07,410 --> 00:00:11,670
+As computers have been created and shared,
+随着计算机的创造与共享，
+
+2
+00:00:11,670 --> 00:00:13,710
+and now they're so commonplace,
+如今它们已经变得如此普遍，
+
+3
+00:00:13,710 --> 00:00:16,770
+the laws have had to change. For example,
+法律不得不做出改变。例如，
+
+4
+00:00:16,770 --> 00:00:20,910
+is it illegal for me to send a computer virus to someone?
+我向某人发送计算机病毒是否违法？
+
+5
+00:00:20,910 --> 00:00:32,479
+Is it illegal for me to hook onto my neighbor's Wi-Fi? The laws have had to be established and created that revolve around the use of computers and the use of the internet.
+我蹭邻居的Wi-Fi是否违法？围绕计算机
+和互联网的使用，已经制定并创建了相关
+法律。
+
+6
+00:00:32,479 --> 00:00:34,760
+That's called computer crime or cybercrime,
+这被称为计算机犯罪或网络犯罪。
+
+7
+00:00:34,760 --> 00:00:39,500
+any crime or criminal activity that includes using computers or the internet.
+任何涉及使用计算机或互联网的犯罪或
+犯罪活动。
+
+8
+00:00:39,500 --> 00:00:49,480
+Some examples include ransomware. Ransomware is where a hacker would get a virus on your computer that would encrypt all of your important files.
+一些例子包括勒索软件。勒索软件是指
+黑客在你的电脑上植入病毒，加密你所有
+重要的文件。
+
+9
+00:00:50,670 --> 00:00:55,530
+The only way to get your files back is to know the encryption key.
+恢复文件的唯一方法是知道加密密钥。
+
+10
+00:00:55,530 --> 00:00:58,590
+The hacker has that key and they'll sell it to you.
+黑客拥有那把钥匙，他们会把它卖给你
+。
+
+11
+00:00:58,590 --> 00:01:00,750
+They're holding your files for ransom.
+他们正在勒索你的文件。
+
+12
+00:01:00,750 --> 00:01:05,069
+So ransomware is criminal activity,
+因此，勒索软件是一种犯罪活动。
+
+13
+00:01:05,069 --> 00:01:09,870
+cybercrime, child pornography, and child pornography scareware.
+网络犯罪、儿童色情和儿童色情恐吓软
+件。
+
+14
+00:01:09,870 --> 00:01:12,330
+For example, a bad guy can say,
+例如，一个坏人可以说，
+
+15
+00:01:12,330 --> 00:01:18,610
+Hey, I'm going to put child pornography on your computer and turn you in. into the authorities if you don't comply,
+嘿，如果你不照我说的做，我就把你的
+电脑里装上儿童色情内容，然后向当局举
+报你。
+
+16
+00:01:18,610 --> 00:01:24,970
+if you don't follow my orders and do what I want you to do.
+如果你不按照我的命令去做，不按照我
+想要你做的去做。
+
+17
+00:01:24,970 --> 00:01:27,430
+Cryptocurrencies are commonplace these days.
+如今，加密货币已经非常普遍。
+
+18
+00:01:27,430 --> 00:01:29,950
+They're not that old, but they've been around long enough,
+他们并不算太老，但已经存在足够长的
+时间了。
+
+19
+00:01:29,950 --> 00:01:34,270
+and you can earn cryptocurrency by mining it,
+你可以通过挖矿来赚取加密货币。
+
+20
+00:01:34,270 --> 00:01:38,890
+which requires computing resources. If I don't have the computing resources,
+这需要计算资源。如果我没有计算资源
+，
+
+21
+00:01:38,890 --> 00:01:50,030
+I can get a virus to spread and all the computers that are victims of my virus can be used to steal their processing power to mine cryptocurrency.
+我可以制造病毒传播，所有感染我病毒
+的计算机都可以被用来窃取它们的计算能
+力来挖加密货币。
+
+22
+00:01:50,030 --> 00:01:56,270
+So cryptojacking is when I secretly get your computer to mine cryptocurrency on my behalf,
+因此，加密货币劫持是指我偷偷地让你
+的电脑为我挖矿，以获取加密货币。
+
+23
+00:01:56,270 --> 00:02:03,110
+for example. Even fake antivirus software is a crime,
+例如，即使是假冒的防病毒软件也是一
+种犯罪行为。
+
+24
+00:02:03,110 --> 00:02:06,630
+and that happens all the time. A pop-up will show up to some body saying,
+这种情况经常发生。一个弹窗会突然出
+现在某人面前，说：
+
+25
+00:02:06,630 --> 00:02:09,570
+Hey, you have a virus. Click here to disinfect,
+嘿，你感染了病毒。点击这里进行消毒
+。
+
+26
+00:02:09,570 --> 00:02:13,230
+or Hey, you need to download this tool to make sure you're safe from this virus.
+或者，嘿，你需要下载这个工具来确保
+自己免受这种病毒的侵害。
+
+27
+00:02:13,230 --> 00:02:15,930
+The tool you're downloading is the virus,
+你正在下载的工具是病毒。
+
+28
+00:02:15,930 --> 00:02:21,330
+or that click isn't disinfecting you; it is indeed infecting you.
+或者，点击并没有让你消毒；实际上，
+它正在感染你。
+
+29
+00:02:21,330 --> 00:02:27,150
+So cybercrime comes in various flavors and shapes and sizes,
+因此，网络犯罪有多种形式、形状和规
+模。
+
+30
+00:02:27,150 --> 00:02:33,610
+but anything that is criminal activity using a computer is cybercrime.
+但任何利用计算机进行的犯罪活动都属
+于网络犯罪。
+
+31
+00:02:33,610 --> 00:02:36,730
+Now, what does that mean to us as security professionals?
+那么，这对我们作为安全专业人士意味
+着什么呢？
+
+32
+00:02:36,730 --> 00:02:44,230
+We are going to govern security to help reduce the cost due to criminal activities.
+我们将通过治理安全来帮助降低因犯罪
+活动而产生的成本。
+
+33
+00:02:44,230 --> 00:02:46,510
+Cyber attacks can hurt us.
+网络攻击会伤害我们。
+
+34
+00:02:46,510 --> 00:02:55,090
+There have been plenty of news stories where organizations got hit with ransomware and had to pay a big ransom to get all their files back.
+有许多新闻报道提到，一些组织遭到勒
+索软件攻击，不得不支付巨额赎金才能恢
+复所有文件。
+
+35
+00:02:55,090 --> 00:02:59,210
+If you have good governance, you may not have to pay them the ransom.
+如果你有良好的治理，你可能不需要支
+付赎金。
+
+36
+00:02:59,210 --> 00:03:01,550
+If you're doing backups faithfully,
+如果你认真地进行备份，
+
+37
+00:03:01,550 --> 00:03:04,550
+you don't have to pay the bad guy to get your files back.
+你不必付钱给坏人来拿回你的文件。
+
+38
+00:03:04,550 --> 00:03:07,310
+You have a copy of your files that you can get back.
+你有一份文件副本，可以恢复回来。
+
+39
+00:03:07,310 --> 00:03:12,950
+So good governance can reduce the cost and the effect of dealing with cybercrime.
+因此，良好的治理可以降低应对网络犯
+罪的成本和影响。
+
+40
+00:03:12,950 --> 00:03:17,270
+It's just a topic you need to know for sure for the exam,
+这只是你需要在考试中确定掌握的一个
+知识点。
+
+41
+00:03:17,270 --> 00:03:22,280
+and it's a topic to have in mind when you're generating your security policies and governing security in general.
+在制定安全策略和总体安全管理时，这
+也是需要考虑的一个话题。
