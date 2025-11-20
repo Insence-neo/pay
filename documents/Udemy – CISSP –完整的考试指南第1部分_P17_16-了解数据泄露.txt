@@ -1,0 +1,220 @@
+1
+00:00:07,470 --> 00:00:11,610
+All right, let's talk about some vocabulary here for a moment.
+好的，我们暂时来谈谈一些词汇。
+
+2
+00:00:11,610 --> 00:00:16,170
+The CISSP exam is very heavy on the vocabulary.
+CISSP考试非常注重词汇量。
+
+3
+00:00:16,170 --> 00:00:20,310
+You have to understand the way words are used and their meaning.
+你必须理解词语的使用方式及其含义。
+
+4
+00:00:20,310 --> 00:00:28,770
+There will be a lot of questions where that will make or break your ability to get the right answers,just knowing exactly what a word means.
+会有很多问题，能否正确回答这些问题
+，取决于你是否确切地知道一个词的含义
+。
+
+5
+00:00:28,770 --> 00:00:36,670
+So we're going to talk about some vocabulary surrounding data breaches. The first word is the word incident.
+那么我们来谈谈一些与数据泄露相关的
+词汇。第一个词是“事件”。
+
+6
+00:00:36,670 --> 00:00:43,310
+My quick definition of incident is a negative occurrence. A negative event.
+我对“事件”的快速定义是：一种负面发
+生的事情。一个负面事件。
+
+7
+00:00:43,310 --> 00:00:48,170
+That is an incident. What constitutes a negative event?
+那是一个事件。什么构成负面事件？
+
+8
+00:00:48,170 --> 00:00:50,390
+This definition clarifies that a little bit.
+这个定义稍微澄清了一些问题。
+
+9
+00:00:50,390 --> 00:00:55,790
+Any event that might compromise the security of an asset.
+任何可能危及资产安全的事件。
+
+10
+00:00:55,790 --> 00:00:58,250
+Security, remember the definition of security is the confidentiality,
+安全，记住安全的定义是保密性。
+
+11
+00:00:58,250 --> 00:01:04,970
+the integrity,and the availability of our assets. So any event that might compromise the security of an asset,
+我们资产的完整性和可用性。因此，任
+何可能危及资产安全的事件，
+
+12
+00:01:04,970 --> 00:01:13,260
+that is an incident. A breach. is when something is disclosed or exposed,
+那是一次事件。泄露是指某些信息被披
+露或暴露。
+
+13
+00:01:13,260 --> 00:01:19,260
+something that should have been protected is now left unprotected.
+本应受到保护的东西现在却无人保护。
+
+14
+00:01:19,260 --> 00:01:28,260
+For example, if the safe was supposed to be locked and Monday morning we get to work and the safe has been unlocked all weekend long,
+例如，如果保险箱本应是锁着的，而周
+一早上我们去上班时发现保险箱整个周末
+都处于未锁状态，
+
+15
+00:01:28,260 --> 00:01:32,880
+that would be a potential disclosure of the data,
+这将构成数据的潜在泄露，
+
+16
+00:01:32,880 --> 00:01:43,000
+whatever the safe was protecting. So a breach is when something is exposed to theft or loss or to stealing.
+无论保险箱保护的是什么。因此，所谓“
+失窃”就是指某物暴露在盗窃、丢失或被偷
+的风险之下。
+
+17
+00:01:43,000 --> 00:01:49,900
+A data disclosure, if a breach is an incident that results in the disclosure of data,
+数据泄露，如果违规行为是导致数据泄
+露的事件，
+
+18
+00:01:49,900 --> 00:01:52,960
+what is data disclosure exactly?
+什么是数据披露？
+
+19
+00:01:52,960 --> 00:02:03,960
+Well, a breach for which it was confirmed that the data was actually disclosed. So just because the safe was left open all weekend doesn't mean that anything was actually disclosed.
+好吧，这起泄露事件已经确认数据确实
+被披露了。因此，仅仅因为保险箱整个周
+末都处于打开状态，并不意味着任何数据
+实际上被泄露了。
+
+20
+00:02:03,960 --> 00:02:09,960
+Disclosure means that it actually was accessed by unauthorized people,
+披露意味着实际上已被未经授权的人员
+访问。
+
+21
+00:02:09,960 --> 00:02:14,090
+right? Not just potential, it actually was accessed by unauthorized parties.
+对吧？不仅仅是潜在风险，实际上已经
+被未经授权的第三方访问了。
+
+22
+00:02:16,150 --> 00:02:19,390
+Finally, one other little thing we need to talk about.
+最后，还有一件小事情我们需要谈谈。
+
+23
+00:02:19,390 --> 00:02:25,570
+Speaking of vocabulary, there is a vocabulary specifically for reporting incidents.
+说到词汇，有一套专门用于报告事件的
+词汇。
+
+24
+00:02:25,570 --> 00:02:37,860
+This vocabulary for event recording and incident sharing is an open guide to the way you should actually report these kinds of things.
+这份用于事件记录和事故分享的词汇表
+是一份开放指南，指导你应该如何实际报
+告这类事情。
+
+25
+00:02:38,640 --> 00:02:43,680
+If everyone has a different measuring stick by which they measure things,
+如果每个人都有不同的衡量标准来衡量
+事物，
+
+26
+00:02:43,680 --> 00:02:50,560
+it makes it hard to get accurate information about events that might have occurred. Using VARIS,
+这使得很难获得关于可能发生的事件的
+准确信息。使用VARIS，
+
+27
+00:02:50,560 --> 00:02:54,340
+this vocabulary for event recording and incident sharing,
+这种用于事件记录和事故共享的词汇表
+，
+
+28
+00:02:54,340 --> 00:02:57,160
+people can report different things that have occurred,
+人们可以报告发生的不同事情，
+
+29
+00:02:57,160 --> 00:03:02,020
+and those reports can all be added to the VARIS community database.
+这些报告都可以添加到VARIS社区数据
+库中。
+
+30
+00:03:02,020 --> 00:03:07,900
+Now there is a public available database that you can go to and find out what's been going on,
+现在有一个公开的数据库，你可以访问
+它来了解发生了什么。
+
+31
+00:03:07,900 --> 00:03:09,640
+what issues people have been having,
+人们一直在遇到哪些问题，
+
+32
+00:03:09,640 --> 00:03:15,680
+and what things I really need to worry about because there are certain trends. That are happening right now.
+以及我真正需要担心的事情，因为目前
+正发生着一些特定的趋势。
+
+33
+00:03:15,680 --> 00:03:17,480
+How do I know what's going on?
+我怎么知道发生了什么？
+
+34
+00:03:17,480 --> 00:03:24,920
+Well,as a community, various security-minded organizations can participate in this.
+那么，作为一个社区，各种注重安全的
+组织都可以参与其中。
+
+35
+00:03:24,920 --> 00:03:38,580
+For example, the Verizon Data Breach Investigation Report uses VARIS to report on the landscape of security and breaches that have been occurring over the last year,for example.
+例如，Verizon数据泄露调查报告使用V
+ARIS来报告过去一年中发生的安全状况
+和数据泄露情况。
+
+36
+00:03:38,580 --> 00:03:47,820
+So VARIS is this vocabulary that everybody can kind of be speaking the same language using the same measuring sticks when they report things like this.
+因此，VARIS 是一种词汇，每个人在报
+告这类事情时，都可以使用相同的语言和
+衡量标准，从而实现沟通一致。
+
+37
+00:03:47,820 --> 00:03:50,640
+So make sure you know some of these vocabulary terms.
+所以，确保你了解这些词汇术语。
+
+38
+00:03:50,640 --> 00:03:53,490
+It could make or break a couple of questions on the exam for you.
+它可能会让你在考试中答对或答错几个
+问题。
