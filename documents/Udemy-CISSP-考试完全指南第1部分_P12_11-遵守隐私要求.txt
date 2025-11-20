@@ -1,0 +1,319 @@
+1
+00:00:07,530 --> 00:00:14,160
+One of the areas where compliance laws and regulations are most important is in the area of privacy.
+合规法律法规最重要的领域之一就是隐
+私保护。
+
+2
+00:00:14,670 --> 00:00:23,250
+Personally identifiable information that you might store about your customers and employees has to be protected.
+你可能会存储的客户和员工的个人身份
+信息必须受到保护。
+
+3
+00:00:23,250 --> 00:00:31,470
+Privacy compliance becomes extremely valuable because it is one of the main areas of data we want to collect.
+隐私合规变得极其重要，因为它是我们
+想要收集的主要数据领域之一。
+
+4
+00:00:31,470 --> 00:00:35,010
+We want to collect information about our customers,
+我们希望收集有关客户的信息，
+
+5
+00:00:35,010 --> 00:00:36,510
+what they like and what they don't like,
+他们喜欢什么，不喜欢什么，
+
+6
+00:00:36,510 --> 00:00:40,870
+so that we can be a better provider for them. Now,
+这样我们才能成为他们更好的提供者。
+现在，
+
+7
+00:00:40,870 --> 00:00:46,450
+marketers use this information to customize the coupons they might send.
+营销人员利用这些信息来定制他们可能
+发送的优惠券。
+
+8
+00:00:46,450 --> 00:00:49,270
+There's an interesting story that happened.
+发生了一件有趣的故事。
+
+9
+00:00:49,270 --> 00:00:54,360
+Target retail store once had a father storm into the Target store
+目标零售店曾有一位父亲冲进Target商
+店
+
+10
+00:00:54,650 --> 00:01:06,650
+asked to speak with a manager and adamantly complained that Target was trying to market pregnancy-related items to his teenage daughter.
+他要求与经理交谈，并坚决抱怨说塔吉
+特公司试图向他的十几岁女儿推销与怀孕
+相关的商品。
+
+11
+00:01:06,650 --> 00:01:13,550
+What are you doing,Target? Are you trying to encourage my daughter to get pregnant? He was irate.
+你在干什么，目标？你是在鼓励我女儿
+去怀孕吗？他非常愤怒。
+
+12
+00:01:13,550 --> 00:01:16,970
+He was frustrated. The manager said, I will find out how that happened.
+他很沮丧。经理说：“我会查清楚是怎么
+发生的。”
+
+13
+00:01:16,970 --> 00:01:20,630
+I apologize. So here's what happened.
+我道歉。事情是这样的。
+
+14
+00:01:20,630 --> 00:01:27,490
+The daughter was pregnant. She had already been actively looking for pregnancy-related items.
+女儿怀孕了。她已经开始积极寻找与怀
+孕相关的物品。
+
+15
+00:01:27,490 --> 00:01:33,130
+Target was tracking that information and sent her pregnancy-related coupons.
+塔吉特公司一直在追踪这些信息，并给
+她发送了与怀孕相关的优惠券。
+
+16
+00:01:33,130 --> 00:01:39,750
+So Target knew that this girl was pregnant before her own father knew. Now that's a privacy situation.
+所以塔吉特百货在女孩的父亲知道之前
+就已经知道她怀孕了。这可真是个隐私问
+题。
+
+17
+00:01:39,750 --> 00:01:41,970
+She did not want her father knowing that.
+她不想让父亲知道这件事。
+
+18
+00:01:41,970 --> 00:01:44,850
+If you expose people's private information,
+如果你泄露了人们的私人信息，
+
+19
+00:01:44,850 --> 00:01:47,550
+that could be a big problem for you.
+这对你来说可能是个大问题。
+
+20
+00:01:47,550 --> 00:01:52,830
+So PII, personally identifiable information,is very valuable to most organizations,
+因此，个人身份信息（PII）对大多数组
+织来说非常有价值。
+
+21
+00:01:52,830 --> 00:01:55,110
+but it can also become a liability.
+但它也可能成为一种负担。
+
+22
+00:01:55,110 --> 00:01:58,950
+If you expose somebody's private information,
+如果你泄露了某人的私人信息，
+
+23
+00:01:58,950 --> 00:02:01,230
+you can be held liable for that.
+你可能会因此承担责任。
+
+24
+00:02:01,230 --> 00:02:07,630
+You hurt them. There are situations where it's pretty sensitive information.
+你伤害了他们。有些情况下，这些信息
+非常敏感。
+
+25
+00:02:07,630 --> 00:02:13,390
+Hackers hack in and now they know all sorts of information about people that they might not want them to know.
+黑客入侵后，他们现在掌握了人们各种
+可能不想让他们知道的信息。
+
+26
+00:02:15,520 --> 00:02:24,280
+Part of Europe's GDPR laws were enforced and strengthened to try to protect people's privacy more.
+欧洲的《通用数据保护条例》（GDPR
+）部分法律被强制执行并得到加强，以进
+一步保护人们的隐私。
+
+27
+00:02:24,280 --> 00:02:27,520
+Now,even under the old European data protection directive,
+现在，即使在旧的欧洲数据保护指令下
+，
+
+28
+00:02:27,520 --> 00:02:34,360
+there are some general guidance that you should follow when you're considering people's PII,
+在考虑个人身份信息（PII）时，有一些
+通用的指导原则你应该遵循。
+
+29
+00:02:34,360 --> 00:02:37,960
+personally identifiable information. When processing it,
+个人身份信息。在处理这些信息时，
+
+30
+00:02:37,960 --> 00:02:41,780
+you should only process it in certain conditions.
+你只能在特定条件下处理它。
+
+31
+00:02:41,780 --> 00:02:46,160
+For example, if you have to comply with a legal action,
+例如，如果你必须遵守法律诉讼，
+
+32
+00:02:46,160 --> 00:02:50,960
+like exposing my private information to the police or the FBI,
+比如向警方或FBI泄露我的私人信息，
+
+33
+00:02:50,960 --> 00:02:59,600
+if they have a warrant for it, you are legally obligated to comply and to expose my private information.
+如果他们有搜查令，你就有法律义务配
+合并披露我的私人信息。
+
+34
+00:02:59,600 --> 00:03:03,320
+You can process it to protect the life of the subject,
+你可以处理它以保护被摄者的生命。
+
+35
+00:03:03,320 --> 00:03:04,700
+whoever that information is about,
+无论这些信息是关于谁的，
+
+36
+00:03:04,700 --> 00:03:07,620
+if you are protecting their lives.
+如果你是在保护他们的生命。
+
+37
+00:03:07,620 --> 00:03:11,820
+According to the data protection directive, you can then use their information,
+根据数据保护指令，您可以使用他们的
+信息。
+
+38
+00:03:11,820 --> 00:03:18,540
+share their information. When the subject of the personal data has given you consent,
+分享他们的信息。当个人数据的主体已
+给予你同意时，
+
+39
+00:03:18,540 --> 00:03:21,420
+that's normal business operations, right?
+那是正常的业务运作，对吧？
+
+40
+00:03:21,420 --> 00:03:22,920
+You're going to tell your customers, hey,
+你要告诉你的客户，嘿，
+
+41
+00:03:22,920 --> 00:03:26,100
+we have a privacy policy. Here's the information we collect about you.
+我们有一项隐私政策。以下是我们收集
+的关于您的信息。
+
+42
+00:03:26,100 --> 00:03:27,240
+Here's how we use it.
+我们这样使用它。
+
+43
+00:03:27,240 --> 00:03:33,280
+Are you okay with that? And when they agree to that, then you're allowed to process,
+你对此没问题吗？当他们同意这一点后
+，你就可以继续处理了。
+
+44
+00:03:33,280 --> 00:03:35,800
+use,share, and work with their private information.
+使用、分享并处理他们的私人信息。
+
+45
+00:03:35,800 --> 00:03:41,920
+And we,as a consumer world, agree to these things quite often,
+而我们作为消费者，经常同意这些事情
+。
+
+46
+00:03:41,920 --> 00:03:44,260
+maybe more than you even realize.
+也许比你意识到的还要多。
+
+47
+00:03:44,260 --> 00:03:50,200
+We're allowing organizations to track us and store this private information about us.
+我们允许组织追踪我们并存储这些关于
+我们的私人信息。
+
+48
+00:03:50,200 --> 00:03:58,880
+Finally, you can process or share or work with this private information when it's within the law and in the scope of public interest.
+最后，你可以在法律允许且符合公共利
+益的范围内处理、分享或使用这些私人信
+息。
+
+49
+00:03:58,880 --> 00:04:06,620
+So these are some basic guidelines to make sure that you're complying with laws and regulatory requirements.
+因此，这些是一些基本准则，以确保你
+遵守法律和监管要求。
+
+50
+00:04:06,620 --> 00:04:09,920
+Again, get legal counsel, make sure that you're following the appropriate laws,
+再次强调，寻求法律咨询，确保你遵守
+了相关法律。
+
+51
+00:04:09,920 --> 00:04:13,160
+and that in different jurisdictions where you might do business,
+以及在你可能开展业务的不同司法管辖
+区中，
+
+52
+00:04:13,160 --> 00:04:19,829
+it becomes complicated. In the world where the whole world is connected,
+事情变得复杂了。在这个整个世界都相
+互连接的世界里，
+
+53
+00:04:19,829 --> 00:04:23,250
+we're crossing jurisdictions, we have customers from all over the world,
+我们跨越了不同司法管辖区，我们的客
+户遍布世界各地。
+
+54
+00:04:23,250 --> 00:04:25,530
+it becomes a little bit of an issue.
+这会成为一个有点儿问题的事情。
+
+55
+00:04:25,530 --> 00:04:38,190
+But one thing we're going to do is make sure that our organization's policies at least have some of these basics and any other necessary compliance issues built into our own policies.
+但我们打算做的一件事是，确保我们组
+织的政策至少包含这些基本要素，并将其
+他必要的合规问题纳入我们的政策中。
+
+56
+00:04:38,190 --> 00:04:46,890
+This is how we do it around here and will naturally fall in line with what we need to be doing. as we interact with our customers and our employees' private information.
+这就是我们在这里的做法，并且会自然
+地与我们所需做的事情保持一致。当我们
+与客户和员工的私人信息互动时，我们会
+遵循这一原则。
